@@ -1,0 +1,411 @@
+TSocketTemplate
+v7
+r0
+t328140576.405689
+cCheck dependencies
+cProcessInfoPlistFile /Users/jfranklin773/Desktop/MacDev/SocketTemplate/build/Debug-iphonesimulator/SocketTemplate.app/Info.plist SocketTemplate-Info.plist
+cCompileXIB /Users/jfranklin773/Desktop/MacDev/SocketTemplate/MainWindow.xib
+cCompileXIB /Users/jfranklin773/Desktop/MacDev/SocketTemplate/SocketTemplateViewController.xib
+cProcessPCH /var/folders/-3/-3smH4hgFXuS9JTI6VmaIE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SocketTemplate_Prefix-gwdklatzarwxnaevhdltcovhbsdz/SocketTemplate_Prefix.pch.gch SocketTemplate_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/SocketTemplate.build/Debug-iphonesimulator/SocketTemplate.build/Objects-normal/i386/main.o /Users/jfranklin773/Desktop/MacDev/SocketTemplate/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/SocketTemplate.build/Debug-iphonesimulator/SocketTemplate.build/Objects-normal/i386/SocketTemplateAppDelegate.o /Users/jfranklin773/Desktop/MacDev/SocketTemplate/Classes/SocketTemplateAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/SocketTemplate.build/Debug-iphonesimulator/SocketTemplate.build/Objects-normal/i386/SocketTemplateViewController.o /Users/jfranklin773/Desktop/MacDev/SocketTemplate/Classes/SocketTemplateViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/SocketTemplate.build/Debug-iphonesimulator/SocketTemplate.build/Objects-normal/i386/Cst420Socket.o /Users/jfranklin773/Desktop/MacDev/SocketTemplate/Classes/Cst420Socket.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cLd /Users/jfranklin773/Desktop/MacDev/SocketTemplate/build/Debug-iphonesimulator/SocketTemplate.app/SocketTemplate normal i386
+cGenerateDSYMFile /Users/jfranklin773/Desktop/MacDev/SocketTemplate/build/Debug-iphonesimulator/SocketTemplate.app.dSYM /Users/jfranklin773/Desktop/MacDev/SocketTemplate/build/Debug-iphonesimulator/SocketTemplate.app/SocketTemplate
+cTouch /Users/jfranklin773/Desktop/MacDev/SocketTemplate/build/Debug-iphonesimulator/SocketTemplate.app
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk
+c000000004CC128950000000000000110
+t1287727253
+s272
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004CC12246000000000029B310
+t1287725638
+s2732816
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004CC1226D000000000029D5D0
+t1287725677
+s2741712
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004CC1225F0000000000001466
+t1287725663
+s5222
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSArray.h
+c000000004CC1225F0000000000001B27
+t1287725663
+s6951
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSAutoreleasePool.h
+c000000004CC1225F00000000000001CB
+t1287725663
+s459
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSData.h
+c000000004CC1225F0000000000001777
+t1287725663
+s6007
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSFileHandle.h
+c000000004CC1225F0000000000000A90
+t1287725663
+s2704
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSString.h
+c000000004CC1225F0000000000006506
+t1287725663
+s25862
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004CC1281F0000000000000AA1
+t1287727135
+s2721
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004CC12883000000000074D7B0
+t1287727235
+s7657392
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/usr/include/arpa/inet.h
+c000000004CB3E46D0000000000001533
+t1286857837
+s5427
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/usr/include/errno.h
+c000000004CB3E48600000000000003EB
+t1286857862
+s1003
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/usr/include/netdb.h
+c000000004A4181220000000000003057
+t1245806882
+s12375
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/usr/include/netinet/in.h
+c000000004CBFACA90000000000005462
+t1287629993
+s21602
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/usr/include/signal.h
+c000000004CB3E48600000000000014F0
+t1286857862
+s5360
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/usr/include/stdio.h
+c000000004CB3E48600000000000040AC
+t1286857862
+s16556
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/usr/include/stdlib.h
+c000000004CB3E4860000000000002DF5
+t1286857862
+s11765
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/usr/include/string.h
+c000000004CB3E4860000000000001731
+t1286857862
+s5937
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/usr/include/sys/param.h
+c000000004CBFACAB00000000000027BE
+t1287629995
+s10174
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/usr/include/sys/socket.h
+c000000004CBFACAC0000000000005A69
+t1287629996
+s23145
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/usr/include/sys/types.h
+c000000004CBFACAC0000000000002905
+t1287629996
+s10501
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/usr/include/sys/wait.h
+c000000004CBFACAD000000000000273C
+t1287629997
+s10044
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/usr/include/unistd.h
+c000000004CB3E486000000000000563E
+t1286857862
+s22078
+
+N/Users/jfranklin773/Desktop/MacDev/SocketTemplate/Classes/Cst420Socket.h
+c000000004CBF08260000000000000986
+t1287587878
+s2438
+i<Foundation/Foundation.h>
+i<stdio.h>
+i<stdlib.h>
+i<errno.h>
+i<string.h>
+i<sys/types.h>
+i<signal.h>
+i<ws2tcpip.h>
+i<winsock2.h>
+i<sys/wait.h>
+i<netdb.h>
+i<unistd.h>
+i<sys/param.h>
+i<sys/socket.h>
+i<netinet/in.h>
+i<arpa/inet.h>
+
+N/Users/jfranklin773/Desktop/MacDev/SocketTemplate/Classes/Cst420Socket.m
+c000000004CE040C0000000000000163E
+t1289765056
+s5694
+i"Cst420Socket.h"
+
+N/Users/jfranklin773/Desktop/MacDev/SocketTemplate/Classes/SocketTemplateAppDelegate.h
+c000000004DC34F1C0000000000000200
+t1304645404
+s512
+i<UIKit/UIKit.h>
+
+N/Users/jfranklin773/Desktop/MacDev/SocketTemplate/Classes/SocketTemplateAppDelegate.m
+c000000004DC34F1C0000000000000AAF
+t1304645404
+s2735
+i"SocketTemplateAppDelegate.h"
+i"SocketTemplateViewController.h"
+
+N/Users/jfranklin773/Desktop/MacDev/SocketTemplate/Classes/SocketTemplateViewController.h
+c000000004DC36E0200000000000002D7
+t1304653314
+s727
+i<UIKit/UIKit.h>
+
+N/Users/jfranklin773/Desktop/MacDev/SocketTemplate/Classes/SocketTemplateViewController.m
+c000000004DD994FA00000000000018CD
+t1306105082
+s6349
+i<Foundation/Foundation.h>
+i<Foundation/NSFileHandle.h>
+i<Foundation/NSAutoreleasePool.h>
+i<Foundation/NSString.h>
+i<Foundation/NSData.h>
+i<Foundation/NSArray.h>
+i"Cst420Socket.h"
+i<stdio.h>
+i<string.h>
+i<stdlib.h>
+i"SocketTemplateViewController.h"
+
+N/Users/jfranklin773/Desktop/MacDev/SocketTemplate/MainWindow.xib
+c000000004DC34F1C0000000000004E7D
+t1304645404
+s20093
+
+N/Users/jfranklin773/Desktop/MacDev/SocketTemplate/SocketTemplateViewController.xib
+c000000004DC35CB70000000000006D5B
+t1304648887
+s27995
+
+N/Users/jfranklin773/Desktop/MacDev/SocketTemplate/SocketTemplate_Prefix.pch
+c000000004DC34F1C00000000000000C5
+t1304645404
+s197
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/jfranklin773/Desktop/MacDev/SocketTemplate/build/Debug-iphonesimulator/SocketTemplate.app
+t1306105083
+s238
+
+N/Users/jfranklin773/Desktop/MacDev/SocketTemplate/build/Debug-iphonesimulator/SocketTemplate.app.dSYM
+t1306105083
+s102
+
+N/Users/jfranklin773/Desktop/MacDev/SocketTemplate/build/Debug-iphonesimulator/SocketTemplate.app/Info.plist
+t1304646500
+s619
+
+N/Users/jfranklin773/Desktop/MacDev/SocketTemplate/build/Debug-iphonesimulator/SocketTemplate.app/MainWindow.nib
+t1304646503
+s1137
+
+N/Users/jfranklin773/Desktop/MacDev/SocketTemplate/build/Debug-iphonesimulator/SocketTemplate.app/PkgInfo
+t1304646500
+s8
+
+N/Users/jfranklin773/Desktop/MacDev/SocketTemplate/build/Debug-iphonesimulator/SocketTemplate.app/SocketTemplate
+t1306105083
+s34220
+
+N/Users/jfranklin773/Desktop/MacDev/SocketTemplate/build/Debug-iphonesimulator/SocketTemplate.app/SocketTemplateViewController.nib
+t1304648892
+s2493
+
+N/Users/jfranklin773/Desktop/MacDev/SocketTemplate/build/SocketTemplate.build/Debug-iphonesimulator/SocketTemplate.build/Objects-normal/i386/Cst420Socket.o
+t1306104732
+s26316
+
+N/Users/jfranklin773/Desktop/MacDev/SocketTemplate/build/SocketTemplate.build/Debug-iphonesimulator/SocketTemplate.build/Objects-normal/i386/SocketTemplate.LinkFileList
+c000000004DD9939C0000000000000281
+t1306104732
+s641
+
+N/Users/jfranklin773/Desktop/MacDev/SocketTemplate/build/SocketTemplate.build/Debug-iphonesimulator/SocketTemplate.build/Objects-normal/i386/SocketTemplateAppDelegate.o
+t1304653314
+s51616
+
+N/Users/jfranklin773/Desktop/MacDev/SocketTemplate/build/SocketTemplate.build/Debug-iphonesimulator/SocketTemplate.build/Objects-normal/i386/SocketTemplateViewController.o
+t1306105083
+s57116
+
+N/Users/jfranklin773/Desktop/MacDev/SocketTemplate/build/SocketTemplate.build/Debug-iphonesimulator/SocketTemplate.build/Objects-normal/i386/main.o
+t1304646505
+s6324
+
+N/Users/jfranklin773/Desktop/MacDev/SocketTemplate/main.m
+c000000004DC34F1C0000000000000167
+t1304645404
+s359
+i<UIKit/UIKit.h>
+
+N/var/folders/-3/-3smH4hgFXuS9JTI6VmaIE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SocketTemplate_Prefix-gwdklatzarwxnaevhdltcovhbsdz/SocketTemplate_Prefix.pch.gch
+t1304646504
+s15453392
+
+NSocketTemplate-Info.plist
+c000000004DC34F1C000000000000038D
+t1304645404
+s909
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies328140575#328140576#0(0"0(0#1#0"29836824280170608#0"0#
+
+CCompileC build/SocketTemplate.build/Debug-iphonesimulator/SocketTemplate.build/Objects-normal/i386/Cst420Socket.o /Users/jfranklin773/Desktop/MacDev/SocketTemplate/Classes/Cst420Socket.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s327797532.622396
+e327797532.734333
+r1
+xCompileC
+xbuild/SocketTemplate.build/Debug-iphonesimulator/SocketTemplate.build/Objects-normal/i386/Cst420Socket.o
+x/Users/jfranklin773/Desktop/MacDev/SocketTemplate/Classes/Cst420Socket.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/Users/jfranklin773/Desktop/MacDev/SocketTemplate/Classes/Cst420Socket.m: In function '-[Cst420ServerSocket initWithPort:]':
+o/Users/jfranklin773/Desktop/MacDev/SocketTemplate/Classes/Cst420Socket.m:70: warning: control reaches end of non-void function
+lSLF07#2@80"Compile /Users/jfranklin773/Desktop/MacDev/SocketTemplate/Classes/Cst420Socket.m327797532#327797532#0(252"/Users/jfranklin773/Desktop/MacDev/SocketTemplate/Classes/Cst420Socket.m: In function '-[Cst420ServerSocket initWithPort:]':/Users/jfranklin773/Desktop/MacDev/SocketTemplate/Classes/Cst420Socket.m:70: warning: control reaches end of non-void function1(22@40"Control reaches end of non-void function327797532#125#127#0(6@72"/Users/jfranklin773/Desktop/MacDev/SocketTemplate/Classes/Cst420Socket.m311457856#70#0#70#0#40"control reaches end of non-void function0(0#0#72"/Users/jfranklin773/Desktop/MacDev/SocketTemplate/Classes/Cst420Socket.m8624180512#2199"    cd /Users/jfranklin773/Desktop/MacDev/SocketTemplate    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/jfranklin773/Desktop/MacDev/SocketTemplate/build/SocketTemplate.build/Debug-iphonesimulator/SocketTemplate.build/SocketTemplate-generated-files.hmap -I/Users/jfranklin773/Desktop/MacDev/SocketTemplate/build/SocketTemplate.build/Debug-iphonesimulator/SocketTemplate.build/SocketTemplate-own-target-headers.hmap -I/Users/jfranklin773/Desktop/MacDev/SocketTemplate/build/SocketTemplate.build/Debug-iphonesimulator/SocketTemplate.build/SocketTemplate-all-target-headers.hmap -iquote /Users/jfranklin773/Desktop/MacDev/SocketTemplate/build/SocketTemplate.build/Debug-iphonesimulator/SocketTemplate.build/SocketTemplate-project-headers.hmap -F/Users/jfranklin773/Desktop/MacDev/SocketTemplate/build/Debug-iphonesimulator -I/Users/jfranklin773/Desktop/MacDev/SocketTemplate/build/Debug-iphonesimulator/include -I/Users/jfranklin773/Desktop/MacDev/SocketTemplate/build/SocketTemplate.build/Debug-iphonesimulator/SocketTemplate.build/DerivedSources/i386 -I/Users/jfranklin773/Desktop/MacDev/SocketTemplate/build/SocketTemplate.build/Debug-iphonesimulator/SocketTemplate.build/DerivedSources -include /var/folders/-3/-3smH4hgFXuS9JTI6VmaIE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SocketTemplate_Prefix-gwdklatzarwxnaevhdltcovhbsdz/SocketTemplate_Prefix.pch -c /Users/jfranklin773/Desktop/MacDev/SocketTemplate/Classes/Cst420Socket.m -o /Users/jfranklin773/Desktop/MacDev/SocketTemplate/build/SocketTemplate.build/Debug-iphonesimulator/SocketTemplate.build/Objects-normal/i386/Cst420Socket.o0#
+
+CCompileC build/SocketTemplate.build/Debug-iphonesimulator/SocketTemplate.build/Objects-normal/i386/SocketTemplateAppDelegate.o /Users/jfranklin773/Desktop/MacDev/SocketTemplate/Classes/SocketTemplateAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s326346114.427291
+e326346114.835125
+r1
+xCompileC
+xbuild/SocketTemplate.build/Debug-iphonesimulator/SocketTemplate.build/Objects-normal/i386/SocketTemplateAppDelegate.o
+x/Users/jfranklin773/Desktop/MacDev/SocketTemplate/Classes/SocketTemplateAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@93"Compile /Users/jfranklin773/Desktop/MacDev/SocketTemplate/Classes/SocketTemplateAppDelegate.m326346114#326346114#0(0"0(0#0#85"/Users/jfranklin773/Desktop/MacDev/SocketTemplate/Classes/SocketTemplateAppDelegate.m8616484416#2225"    cd /Users/jfranklin773/Desktop/MacDev/SocketTemplate    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/jfranklin773/Desktop/MacDev/SocketTemplate/build/SocketTemplate.build/Debug-iphonesimulator/SocketTemplate.build/SocketTemplate-generated-files.hmap -I/Users/jfranklin773/Desktop/MacDev/SocketTemplate/build/SocketTemplate.build/Debug-iphonesimulator/SocketTemplate.build/SocketTemplate-own-target-headers.hmap -I/Users/jfranklin773/Desktop/MacDev/SocketTemplate/build/SocketTemplate.build/Debug-iphonesimulator/SocketTemplate.build/SocketTemplate-all-target-headers.hmap -iquote /Users/jfranklin773/Desktop/MacDev/SocketTemplate/build/SocketTemplate.build/Debug-iphonesimulator/SocketTemplate.build/SocketTemplate-project-headers.hmap -F/Users/jfranklin773/Desktop/MacDev/SocketTemplate/build/Debug-iphonesimulator -I/Users/jfranklin773/Desktop/MacDev/SocketTemplate/build/Debug-iphonesimulator/include -I/Users/jfranklin773/Desktop/MacDev/SocketTemplate/build/SocketTemplate.build/Debug-iphonesimulator/SocketTemplate.build/DerivedSources/i386 -I/Users/jfranklin773/Desktop/MacDev/SocketTemplate/build/SocketTemplate.build/Debug-iphonesimulator/SocketTemplate.build/DerivedSources -include /var/folders/-3/-3smH4hgFXuS9JTI6VmaIE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SocketTemplate_Prefix-gwdklatzarwxnaevhdltcovhbsdz/SocketTemplate_Prefix.pch -c /Users/jfranklin773/Desktop/MacDev/SocketTemplate/Classes/SocketTemplateAppDelegate.m -o /Users/jfranklin773/Desktop/MacDev/SocketTemplate/build/SocketTemplate.build/Debug-iphonesimulator/SocketTemplate.build/Objects-normal/i386/SocketTemplateAppDelegate.o0#
+
+CCompileC build/SocketTemplate.build/Debug-iphonesimulator/SocketTemplate.build/Objects-normal/i386/SocketTemplateViewController.o /Users/jfranklin773/Desktop/MacDev/SocketTemplate/Classes/SocketTemplateViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s327797883.573001
+e327797883.733986
+r1
+xCompileC
+xbuild/SocketTemplate.build/Debug-iphonesimulator/SocketTemplate.build/Objects-normal/i386/SocketTemplateViewController.o
+x/Users/jfranklin773/Desktop/MacDev/SocketTemplate/Classes/SocketTemplateViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/Users/jfranklin773/Desktop/MacDev/SocketTemplate/Classes/SocketTemplateViewController.m: In function '-[SocketTemplateViewController connect]':
+o/Users/jfranklin773/Desktop/MacDev/SocketTemplate/Classes/SocketTemplateViewController.m:70: warning: class 'SocketTemplateViewController' does not implement the 'NSStreamDelegate' protocol
+o/Users/jfranklin773/Desktop/MacDev/SocketTemplate/Classes/SocketTemplateViewController.m:71: warning: class 'SocketTemplateViewController' does not implement the 'NSStreamDelegate' protocol
+o/Users/jfranklin773/Desktop/MacDev/SocketTemplate/Classes/SocketTemplateViewController.m: In function '-[SocketTemplateViewController sendText:]':
+o/Users/jfranklin773/Desktop/MacDev/SocketTemplate/Classes/SocketTemplateViewController.m:121: warning: passing argument 1 of 'sendBytes:OfLength:Index:' discards qualifiers from pointer target type
+o/Users/jfranklin773/Desktop/MacDev/SocketTemplate/Classes/SocketTemplateViewController.m:123: warning: passing argument 1 of 'sendBytes:OfLength:Index:' discards qualifiers from pointer target type
+o/Users/jfranklin773/Desktop/MacDev/SocketTemplate/Classes/SocketTemplateViewController.m:115: warning: unused variable 'inputString'
+o/Users/jfranklin773/Desktop/MacDev/SocketTemplate/Classes/SocketTemplateViewController.m:107: warning: unused variable 'endText'
+lSLF07#2@96"Compile /Users/jfranklin773/Desktop/MacDev/SocketTemplate/Classes/SocketTemplateViewController.m327797883#327797883#0(1330"/Users/jfranklin773/Desktop/MacDev/SocketTemplate/Classes/SocketTemplateViewController.m: In function '-[SocketTemplateViewController connect]':/Users/jfranklin773/Desktop/MacDev/SocketTemplate/Classes/SocketTemplateViewController.m:70: warning: class 'SocketTemplateViewController' does not implement the 'NSStreamDelegate' protocol/Users/jfranklin773/Desktop/MacDev/SocketTemplate/Classes/SocketTemplateViewController.m:71: warning: class 'SocketTemplateViewController' does not implement the 'NSStreamDelegate' protocol/Users/jfranklin773/Desktop/MacDev/SocketTemplate/Classes/SocketTemplateViewController.m: In function '-[SocketTemplateViewController sendText:]':/Users/jfranklin773/Desktop/MacDev/SocketTemplate/Classes/SocketTemplateViewController.m:121: warning: passing argument 1 of 'sendBytes:OfLength:Index:' discards qualifiers from pointer target type/Users/jfranklin773/Desktop/MacDev/SocketTemplate/Classes/SocketTemplateViewController.m:123: warning: passing argument 1 of 'sendBytes:OfLength:Index:' discards qualifiers from pointer target type/Users/jfranklin773/Desktop/MacDev/SocketTemplate/Classes/SocketTemplateViewController.m:115: warning: unused variable 'inputString'/Users/jfranklin773/Desktop/MacDev/SocketTemplate/Classes/SocketTemplateViewController.m:107: warning: unused variable 'endText'6(22@87"Class 'SocketTemplateViewController' does not implement the 'NSStreamDelegate' protocol327797883#145#190#0(6@88"/Users/jfranklin773/Desktop/MacDev/SocketTemplate/Classes/SocketTemplateViewController.m327797882#70#0#70#0#45"class '*' does not implement the '*' protocol0(22@87"Class 'SocketTemplateViewController' does not implement the 'NSStreamDelegate' protocol327797883#335#190#0(6@88"/Users/jfranklin773/Desktop/MacDev/SocketTemplate/Classes/SocketTemplateViewController.m327797882#71#0#71#0#45"class '*' does not implement the '*' protocol0(22@94"Passing argument 1 of 'sendBytes:OfLength:Index:' discards qualifiers from pointer target type327797883#672#198#0(6@88"/Users/jfranklin773/Desktop/MacDev/SocketTemplate/Classes/SocketTemplateViewController.m327797882#121#0#121#0#70"passing argument * of '*' discards qualifiers from pointer target type0(22@94"Passing argument 1 of 'sendBytes:OfLength:Index:' discards qualifiers from pointer target type327797883#870#198#0(6@88"/Users/jfranklin773/Desktop/MacDev/SocketTemplate/Classes/SocketTemplateViewController.m327797882#123#0#123#0#70"passing argument * of '*' discards qualifiers from pointer target type0(22@29"Unused variable 'inputString'327797883#1068#133#0(6@88"/Users/jfranklin773/Desktop/MacDev/SocketTemplate/Classes/SocketTemplateViewController.m327797882#115#0#115#0#19"unused variable '*'0(22@25"Unused variable 'endText'327797883#1201#129#0(6@88"/Users/jfranklin773/Desktop/MacDev/SocketTemplate/Classes/SocketTemplateViewController.m327797882#107#0#107#0#19"unused variable '*'0(0#0#88"/Users/jfranklin773/Desktop/MacDev/SocketTemplate/Classes/SocketTemplateViewController.m8621622560#2231"    cd /Users/jfranklin773/Desktop/MacDev/SocketTemplate    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/jfranklin773/Desktop/MacDev/SocketTemplate/build/SocketTemplate.build/Debug-iphonesimulator/SocketTemplate.build/SocketTemplate-generated-files.hmap -I/Users/jfranklin773/Desktop/MacDev/SocketTemplate/build/SocketTemplate.build/Debug-iphonesimulator/SocketTemplate.build/SocketTemplate-own-target-headers.hmap -I/Users/jfranklin773/Desktop/MacDev/SocketTemplate/build/SocketTemplate.build/Debug-iphonesimulator/SocketTemplate.build/SocketTemplate-all-target-headers.hmap -iquote /Users/jfranklin773/Desktop/MacDev/SocketTemplate/build/SocketTemplate.build/Debug-iphonesimulator/SocketTemplate.build/SocketTemplate-project-headers.hmap -F/Users/jfranklin773/Desktop/MacDev/SocketTemplate/build/Debug-iphonesimulator -I/Users/jfranklin773/Desktop/MacDev/SocketTemplate/build/Debug-iphonesimulator/include -I/Users/jfranklin773/Desktop/MacDev/SocketTemplate/build/SocketTemplate.build/Debug-iphonesimulator/SocketTemplate.build/DerivedSources/i386 -I/Users/jfranklin773/Desktop/MacDev/SocketTemplate/build/SocketTemplate.build/Debug-iphonesimulator/SocketTemplate.build/DerivedSources -include /var/folders/-3/-3smH4hgFXuS9JTI6VmaIE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SocketTemplate_Prefix-gwdklatzarwxnaevhdltcovhbsdz/SocketTemplate_Prefix.pch -c /Users/jfranklin773/Desktop/MacDev/SocketTemplate/Classes/SocketTemplateViewController.m -o /Users/jfranklin773/Desktop/MacDev/SocketTemplate/build/SocketTemplate.build/Debug-iphonesimulator/SocketTemplate.build/Objects-normal/i386/SocketTemplateViewController.o0#
+
+CCompileC build/SocketTemplate.build/Debug-iphonesimulator/SocketTemplate.build/Objects-normal/i386/main.o /Users/jfranklin773/Desktop/MacDev/SocketTemplate/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s326339305.160853
+e326339305.286091
+r1
+xCompileC
+xbuild/SocketTemplate.build/Debug-iphonesimulator/SocketTemplate.build/Objects-normal/i386/main.o
+x/Users/jfranklin773/Desktop/MacDev/SocketTemplate/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@64"Compile /Users/jfranklin773/Desktop/MacDev/SocketTemplate/main.m326339305#326339305#0(0"0(0#0#56"/Users/jfranklin773/Desktop/MacDev/SocketTemplate/main.m8607487104#2175"    cd /Users/jfranklin773/Desktop/MacDev/SocketTemplate    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/jfranklin773/Desktop/MacDev/SocketTemplate/build/SocketTemplate.build/Debug-iphonesimulator/SocketTemplate.build/SocketTemplate-generated-files.hmap -I/Users/jfranklin773/Desktop/MacDev/SocketTemplate/build/SocketTemplate.build/Debug-iphonesimulator/SocketTemplate.build/SocketTemplate-own-target-headers.hmap -I/Users/jfranklin773/Desktop/MacDev/SocketTemplate/build/SocketTemplate.build/Debug-iphonesimulator/SocketTemplate.build/SocketTemplate-all-target-headers.hmap -iquote /Users/jfranklin773/Desktop/MacDev/SocketTemplate/build/SocketTemplate.build/Debug-iphonesimulator/SocketTemplate.build/SocketTemplate-project-headers.hmap -F/Users/jfranklin773/Desktop/MacDev/SocketTemplate/build/Debug-iphonesimulator -I/Users/jfranklin773/Desktop/MacDev/SocketTemplate/build/Debug-iphonesimulator/include -I/Users/jfranklin773/Desktop/MacDev/SocketTemplate/build/SocketTemplate.build/Debug-iphonesimulator/SocketTemplate.build/DerivedSources/i386 -I/Users/jfranklin773/Desktop/MacDev/SocketTemplate/build/SocketTemplate.build/Debug-iphonesimulator/SocketTemplate.build/DerivedSources -include /var/folders/-3/-3smH4hgFXuS9JTI6VmaIE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SocketTemplate_Prefix-gwdklatzarwxnaevhdltcovhbsdz/SocketTemplate_Prefix.pch -c /Users/jfranklin773/Desktop/MacDev/SocketTemplate/main.m -o /Users/jfranklin773/Desktop/MacDev/SocketTemplate/build/SocketTemplate.build/Debug-iphonesimulator/SocketTemplate.build/Objects-normal/i386/main.o0#
+
+CCompileXIB /Users/jfranklin773/Desktop/MacDev/SocketTemplate/MainWindow.xib
+s326339300.109132
+e326339303.036521
+r1
+xCompileXIB
+x/Users/jfranklin773/Desktop/MacDev/SocketTemplate/MainWindow.xib
+lSLF07#2@25"CompileXIB MainWindow.xib326339300#326339303#0(0"0(0#0#64"/Users/jfranklin773/Desktop/MacDev/SocketTemplate/MainWindow.xib8600399776#610"    cd /Users/jfranklin773/Desktop/MacDev/SocketTemplate    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/jfranklin773/Desktop/MacDev/SocketTemplate/build/Debug-iphonesimulator/SocketTemplate.app/MainWindow.nib /Users/jfranklin773/Desktop/MacDev/SocketTemplate/MainWindow.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk0#
+
+CCompileXIB /Users/jfranklin773/Desktop/MacDev/SocketTemplate/SocketTemplateViewController.xib
+s326341692.421077
+e326341692.952811
+r1
+xCompileXIB
+x/Users/jfranklin773/Desktop/MacDev/SocketTemplate/SocketTemplateViewController.xib
+lSLF07#2@43"CompileXIB SocketTemplateViewController.xib326341692#326341692#0(0"0(0#0#82"/Users/jfranklin773/Desktop/MacDev/SocketTemplate/SocketTemplateViewController.xib8616905056#646"    cd /Users/jfranklin773/Desktop/MacDev/SocketTemplate    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/jfranklin773/Desktop/MacDev/SocketTemplate/build/Debug-iphonesimulator/SocketTemplate.app/SocketTemplateViewController.nib /Users/jfranklin773/Desktop/MacDev/SocketTemplate/SocketTemplateViewController.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk0#
+
+CGenerateDSYMFile /Users/jfranklin773/Desktop/MacDev/SocketTemplate/build/Debug-iphonesimulator/SocketTemplate.app.dSYM /Users/jfranklin773/Desktop/MacDev/SocketTemplate/build/Debug-iphonesimulator/SocketTemplate.app/SocketTemplate
+s327797883.761807
+e327797883.779781
+r1
+xGenerateDSYMFile
+x/Users/jfranklin773/Desktop/MacDev/SocketTemplate/build/Debug-iphonesimulator/SocketTemplate.app.dSYM
+x/Users/jfranklin773/Desktop/MacDev/SocketTemplate/build/Debug-iphonesimulator/SocketTemplate.app/SocketTemplate
+lSLF07#2@130"GenerateDSYMFile build/Debug-iphonesimulator/SocketTemplate.app.dSYM build/Debug-iphonesimulator/SocketTemplate.app/SocketTemplate327797883#327797883#0(0"0(0#0#111"/Users/jfranklin773/Desktop/MacDev/SocketTemplate/build/Debug-iphonesimulator/SocketTemplate.app/SocketTemplate8627098176#437"    cd /Users/jfranklin773/Desktop/MacDev/SocketTemplate    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /Users/jfranklin773/Desktop/MacDev/SocketTemplate/build/Debug-iphonesimulator/SocketTemplate.app/SocketTemplate -o /Users/jfranklin773/Desktop/MacDev/SocketTemplate/build/Debug-iphonesimulator/SocketTemplate.app.dSYM0#
+
+CLd /Users/jfranklin773/Desktop/MacDev/SocketTemplate/build/Debug-iphonesimulator/SocketTemplate.app/SocketTemplate normal i386
+s327797883.734086
+e327797883.761690
+r1
+xLd
+x/Users/jfranklin773/Desktop/MacDev/SocketTemplate/build/Debug-iphonesimulator/SocketTemplate.app/SocketTemplate
+xnormal
+xi386
+lSLF07#2@116"Link /Users/jfranklin773/Desktop/MacDev/SocketTemplate/build/Debug-iphonesimulator/SocketTemplate.app/SocketTemplate327797883#327797883#0(0"0(0#0#0"8627417344#990"    cd /Users/jfranklin773/Desktop/MacDev/SocketTemplate    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -L/Users/jfranklin773/Desktop/MacDev/SocketTemplate/build/Debug-iphonesimulator -F/Users/jfranklin773/Desktop/MacDev/SocketTemplate/build/Debug-iphonesimulator -filelist /Users/jfranklin773/Desktop/MacDev/SocketTemplate/build/SocketTemplate.build/Debug-iphonesimulator/SocketTemplate.build/Objects-normal/i386/SocketTemplate.LinkFileList -mmacosx-version-min=10.6 -Xlinker -objc_abi_version -Xlinker 2 -framework Foundation -framework UIKit -framework CoreGraphics -o /Users/jfranklin773/Desktop/MacDev/SocketTemplate/build/Debug-iphonesimulator/SocketTemplate.app/SocketTemplate0#
+
+CProcessInfoPlistFile /Users/jfranklin773/Desktop/MacDev/SocketTemplate/build/Debug-iphonesimulator/SocketTemplate.app/Info.plist SocketTemplate-Info.plist
+s326339300.057104
+e326339300.109044
+r1
+xProcessInfoPlistFile
+x/Users/jfranklin773/Desktop/MacDev/SocketTemplate/build/Debug-iphonesimulator/SocketTemplate.app/Info.plist
+xSocketTemplate-Info.plist
+lSLF07#2@33"Process SocketTemplate-Info.plist326339300#326339300#0(0"0(0#0#75"/Users/jfranklin773/Desktop/MacDev/SocketTemplate/SocketTemplate-Info.plist30681206258663540#533"    cd /Users/jfranklin773/Desktop/MacDev/SocketTemplate    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility SocketTemplate-Info.plist -genpkginfo /Users/jfranklin773/Desktop/MacDev/SocketTemplate/build/Debug-iphonesimulator/SocketTemplate.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/jfranklin773/Desktop/MacDev/SocketTemplate/build/Debug-iphonesimulator/SocketTemplate.app/Info.plist0#
+
+CProcessPCH /var/folders/-3/-3smH4hgFXuS9JTI6VmaIE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SocketTemplate_Prefix-gwdklatzarwxnaevhdltcovhbsdz/SocketTemplate_Prefix.pch.gch SocketTemplate_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s326339303.064642
+e326339305.158760
+r1
+xProcessPCH
+x/var/folders/-3/-3smH4hgFXuS9JTI6VmaIE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SocketTemplate_Prefix-gwdklatzarwxnaevhdltcovhbsdz/SocketTemplate_Prefix.pch.gch
+xSocketTemplate_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@36"Precompile SocketTemplate_Prefix.pch326339303#326339305#0(0"0(0#0#75"/Users/jfranklin773/Desktop/MacDev/SocketTemplate/SocketTemplate_Prefix.pch8601872128#2049"    cd /Users/jfranklin773/Desktop/MacDev/SocketTemplate    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/jfranklin773/Desktop/MacDev/SocketTemplate/build/SocketTemplate.build/Debug-iphonesimulator/SocketTemplate.build/SocketTemplate-generated-files.hmap -I/Users/jfranklin773/Desktop/MacDev/SocketTemplate/build/SocketTemplate.build/Debug-iphonesimulator/SocketTemplate.build/SocketTemplate-own-target-headers.hmap -I/Users/jfranklin773/Desktop/MacDev/SocketTemplate/build/SocketTemplate.build/Debug-iphonesimulator/SocketTemplate.build/SocketTemplate-all-target-headers.hmap -iquote /Users/jfranklin773/Desktop/MacDev/SocketTemplate/build/SocketTemplate.build/Debug-iphonesimulator/SocketTemplate.build/SocketTemplate-project-headers.hmap -F/Users/jfranklin773/Desktop/MacDev/SocketTemplate/build/Debug-iphonesimulator -I/Users/jfranklin773/Desktop/MacDev/SocketTemplate/build/Debug-iphonesimulator/include -I/Users/jfranklin773/Desktop/MacDev/SocketTemplate/build/SocketTemplate.build/Debug-iphonesimulator/SocketTemplate.build/DerivedSources/i386 -I/Users/jfranklin773/Desktop/MacDev/SocketTemplate/build/SocketTemplate.build/Debug-iphonesimulator/SocketTemplate.build/DerivedSources -c /Users/jfranklin773/Desktop/MacDev/SocketTemplate/SocketTemplate_Prefix.pch -o /var/folders/-3/-3smH4hgFXuS9JTI6VmaIE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SocketTemplate_Prefix-gwdklatzarwxnaevhdltcovhbsdz/SocketTemplate_Prefix.pch.gch0#
+
+CTouch /Users/jfranklin773/Desktop/MacDev/SocketTemplate/build/Debug-iphonesimulator/SocketTemplate.app
+s327797883.779870
+e327797883.782406
+r1
+xTouch
+x/Users/jfranklin773/Desktop/MacDev/SocketTemplate/build/Debug-iphonesimulator/SocketTemplate.app
+lSLF07#2@102"Touch /Users/jfranklin773/Desktop/MacDev/SocketTemplate/build/Debug-iphonesimulator/SocketTemplate.app327797883#327797883#0(0"0(0#0#0"8626825696#307"    cd /Users/jfranklin773/Desktop/MacDev/SocketTemplate    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/jfranklin773/Desktop/MacDev/SocketTemplate/build/Debug-iphonesimulator/SocketTemplate.app0#
+
