@@ -1,436 +1,0 @@
-TSocketTemplate
-v7
-r0
-t327256737.344774
-cCheck dependencies
-cCpResource build/Debug-iphoneos/SocketTemplate.app/ResourceRules.plist /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/ResourceRules.plist
-cProcessInfoPlistFile /Users/jfranklin773/Desktop/MacDev/SocketTemplate/build/Debug-iphoneos/SocketTemplate.app/Info.plist SocketTemplate-Info.plist
-cCompileXIB /Users/jfranklin773/Desktop/MacDev/SocketTemplate/MainWindow.xib
-cCompileXIB /Users/jfranklin773/Desktop/MacDev/SocketTemplate/SocketTemplateViewController.xib
-cProcessPCH /var/folders/-3/-3smH4hgFXuS9JTI6VmaIE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SocketTemplate_Prefix-dxrcvuazwppgaycoyxtkncfhatag/SocketTemplate_Prefix.pch.gch SocketTemplate_Prefix.pch normal armv6 objective-c com.apple.compilers.gcc.4_2
-cProcessPCH /var/folders/-3/-3smH4hgFXuS9JTI6VmaIE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SocketTemplate_Prefix-clvjcdopdxsjobbgxamgcivvsvch/SocketTemplate_Prefix.pch.gch SocketTemplate_Prefix.pch normal armv7 objective-c com.apple.compilers.gcc.4_2
-cCompileC build/SocketTemplate.build/Debug-iphoneos/SocketTemplate.build/Objects-normal/armv6/main.o /Users/jfranklin773/Desktop/MacDev/SocketTemplate/main.m normal armv6 objective-c com.apple.compilers.gcc.4_2
-cCompileC build/SocketTemplate.build/Debug-iphoneos/SocketTemplate.build/Objects-normal/armv6/SocketTemplateAppDelegate.o /Users/jfranklin773/Desktop/MacDev/SocketTemplate/Classes/SocketTemplateAppDelegate.m normal armv6 objective-c com.apple.compilers.gcc.4_2
-cCompileC build/SocketTemplate.build/Debug-iphoneos/SocketTemplate.build/Objects-normal/armv6/SocketTemplateViewController.o /Users/jfranklin773/Desktop/MacDev/SocketTemplate/Classes/SocketTemplateViewController.m normal armv6 objective-c com.apple.compilers.gcc.4_2
-cLd /Users/jfranklin773/Desktop/MacDev/SocketTemplate/build/SocketTemplate.build/Debug-iphoneos/SocketTemplate.build/Objects-normal/armv6/SocketTemplate normal armv6
-cCompileC build/SocketTemplate.build/Debug-iphoneos/SocketTemplate.build/Objects-normal/armv7/main.o /Users/jfranklin773/Desktop/MacDev/SocketTemplate/main.m normal armv7 objective-c com.apple.compilers.gcc.4_2
-cCompileC build/SocketTemplate.build/Debug-iphoneos/SocketTemplate.build/Objects-normal/armv7/SocketTemplateAppDelegate.o /Users/jfranklin773/Desktop/MacDev/SocketTemplate/Classes/SocketTemplateAppDelegate.m normal armv7 objective-c com.apple.compilers.gcc.4_2
-cCompileC build/SocketTemplate.build/Debug-iphoneos/SocketTemplate.build/Objects-normal/armv7/SocketTemplateViewController.o /Users/jfranklin773/Desktop/MacDev/SocketTemplate/Classes/SocketTemplateViewController.m normal armv7 objective-c com.apple.compilers.gcc.4_2
-cLd /Users/jfranklin773/Desktop/MacDev/SocketTemplate/build/SocketTemplate.build/Debug-iphoneos/SocketTemplate.build/Objects-normal/armv7/SocketTemplate normal armv7
-cCreateUniversalBinary /Users/jfranklin773/Desktop/MacDev/SocketTemplate/build/Debug-iphoneos/SocketTemplate.app/SocketTemplate normal "armv6 armv7"
-cGenerateDSYMFile /Users/jfranklin773/Desktop/MacDev/SocketTemplate/build/Debug-iphoneos/SocketTemplate.app.dSYM /Users/jfranklin773/Desktop/MacDev/SocketTemplate/build/Debug-iphoneos/SocketTemplate.app/SocketTemplate
-cProcessProductPackaging "/Users/jfranklin773/Library/MobileDevice/Provisioning Profiles/95E4CA9E-0AFA-4D5F-A8AF-8DF62592D219.mobileprovision" /Users/jfranklin773/Desktop/MacDev/SocketTemplate/build/Debug-iphoneos/SocketTemplate.app/embedded.mobileprovision
-cTouch /Users/jfranklin773/Desktop/MacDev/SocketTemplate/build/Debug-iphoneos/SocketTemplate.app
-cProcessProductPackaging /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/Entitlements.plist /Users/jfranklin773/Desktop/MacDev/SocketTemplate/build/SocketTemplate.build/Debug-iphoneos/SocketTemplate.build/SocketTemplate.xcent
-cCodeSign /Users/jfranklin773/Desktop/MacDev/SocketTemplate/build/Debug-iphoneos/SocketTemplate.app
-
-N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk
-c000000004CC7DC9E0000000000000110
-t1288166558
-s272
-
-N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/Entitlements.plist
-c000000004CB3DFCF00000000000001A7
-t1286856655
-s423
-
-N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/ResourceRules.plist
-c000000004CB3DFCF00000000000001E5
-t1286856655
-s485
-
-N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
-c000000004CC10EF500000000003532B0
-t1287720693
-s3486384
-
-N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/System/Library/Frameworks/Foundation.framework/Foundation
-c000000004CC10F4700000000003E1F20
-t1287720775
-s4071200
-
-N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
-c000000004CC10F1C0000000000001466
-t1287720732
-s5222
-
-N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
-c000000004CC11AE60000000000000AA1
-t1287723750
-s2721
-
-N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/System/Library/Frameworks/UIKit.framework/UIKit
-c000000004CC11B750000000000C769F0
-t1287723893
-s13068784
-
-N/Users/jfranklin773/Desktop/MacDev/SocketTemplate/Classes/SocketTemplateAppDelegate.h
-c000000004DC34F1C0000000000000200
-t1304645404
-s512
-i<UIKit/UIKit.h>
-
-N/Users/jfranklin773/Desktop/MacDev/SocketTemplate/Classes/SocketTemplateAppDelegate.m
-c000000004DC34F1C0000000000000AAF
-t1304645404
-s2735
-i"SocketTemplateAppDelegate.h"
-i"SocketTemplateViewController.h"
-
-N/Users/jfranklin773/Desktop/MacDev/SocketTemplate/Classes/SocketTemplateViewController.h
-c000000004DC36E0200000000000002D7
-t1304653314
-s727
-i<UIKit/UIKit.h>
-
-N/Users/jfranklin773/Desktop/MacDev/SocketTemplate/Classes/SocketTemplateViewController.m
-c000000004DC36EEE0000000000001638
-t1304653550
-s5688
-i"SocketTemplateViewController.h"
-
-N/Users/jfranklin773/Desktop/MacDev/SocketTemplate/MainWindow.xib
-c000000004DC34F1C0000000000004E7D
-t1304645404
-s20093
-
-N/Users/jfranklin773/Desktop/MacDev/SocketTemplate/SocketTemplateViewController.xib
-c000000004DC35CB70000000000006D5B
-t1304648887
-s27995
-
-N/Users/jfranklin773/Desktop/MacDev/SocketTemplate/SocketTemplate_Prefix.pch
-c000000004DC34F1C00000000000000C5
-t1304645404
-s197
-i<Foundation/Foundation.h>
-i<UIKit/UIKit.h>
-
-N/Users/jfranklin773/Desktop/MacDev/SocketTemplate/build/Debug-iphoneos/SocketTemplate.app
-t1304714271
-s374
-
-N/Users/jfranklin773/Desktop/MacDev/SocketTemplate/build/Debug-iphoneos/SocketTemplate.app.dSYM
-t1304714265
-s102
-
-N/Users/jfranklin773/Desktop/MacDev/SocketTemplate/build/Debug-iphoneos/SocketTemplate.app/Info.plist
-t1304714261
-s809
-
-N/Users/jfranklin773/Desktop/MacDev/SocketTemplate/build/Debug-iphoneos/SocketTemplate.app/MainWindow.nib
-t1304714261
-s1137
-
-N/Users/jfranklin773/Desktop/MacDev/SocketTemplate/build/Debug-iphoneos/SocketTemplate.app/PkgInfo
-t1304714261
-s8
-
-N/Users/jfranklin773/Desktop/MacDev/SocketTemplate/build/Debug-iphoneos/SocketTemplate.app/ResourceRules.plist
-t1304714261
-s485
-
-N/Users/jfranklin773/Desktop/MacDev/SocketTemplate/build/Debug-iphoneos/SocketTemplate.app/SocketTemplate
-t1304714265
-s67232
-
-N/Users/jfranklin773/Desktop/MacDev/SocketTemplate/build/Debug-iphoneos/SocketTemplate.app/SocketTemplateViewController.nib
-t1304714261
-s2482
-
-N/Users/jfranklin773/Desktop/MacDev/SocketTemplate/build/Debug-iphoneos/SocketTemplate.app/embedded.mobileprovision
-t1304714265
-s20339
-
-N/Users/jfranklin773/Desktop/MacDev/SocketTemplate/build/SocketTemplate.build/Debug-iphoneos/SocketTemplate.build/Objects-normal/armv6/SocketTemplate
-t1304714265
-s24456
-
-N/Users/jfranklin773/Desktop/MacDev/SocketTemplate/build/SocketTemplate.build/Debug-iphoneos/SocketTemplate.build/Objects-normal/armv6/SocketTemplate.LinkFileList
-c000000004DC45C1500000000000001D4
-t1304714261
-s468
-
-N/Users/jfranklin773/Desktop/MacDev/SocketTemplate/build/SocketTemplate.build/Debug-iphoneos/SocketTemplate.build/Objects-normal/armv6/SocketTemplateAppDelegate.o
-t1304714264
-s51136
-
-N/Users/jfranklin773/Desktop/MacDev/SocketTemplate/build/SocketTemplate.build/Debug-iphoneos/SocketTemplate.build/Objects-normal/armv6/SocketTemplateViewController.o
-t1304714264
-s53880
-
-N/Users/jfranklin773/Desktop/MacDev/SocketTemplate/build/SocketTemplate.build/Debug-iphoneos/SocketTemplate.build/Objects-normal/armv6/main.o
-t1304714264
-s6468
-
-N/Users/jfranklin773/Desktop/MacDev/SocketTemplate/build/SocketTemplate.build/Debug-iphoneos/SocketTemplate.build/Objects-normal/armv7/SocketTemplate
-t1304714265
-s24432
-
-N/Users/jfranklin773/Desktop/MacDev/SocketTemplate/build/SocketTemplate.build/Debug-iphoneos/SocketTemplate.build/Objects-normal/armv7/SocketTemplate.LinkFileList
-c000000004DC45C1500000000000001D4
-t1304714261
-s468
-
-N/Users/jfranklin773/Desktop/MacDev/SocketTemplate/build/SocketTemplate.build/Debug-iphoneos/SocketTemplate.build/Objects-normal/armv7/SocketTemplateAppDelegate.o
-t1304714264
-s51056
-
-N/Users/jfranklin773/Desktop/MacDev/SocketTemplate/build/SocketTemplate.build/Debug-iphoneos/SocketTemplate.build/Objects-normal/armv7/SocketTemplateViewController.o
-t1304714264
-s53072
-
-N/Users/jfranklin773/Desktop/MacDev/SocketTemplate/build/SocketTemplate.build/Debug-iphoneos/SocketTemplate.build/Objects-normal/armv7/main.o
-t1304714264
-s6452
-
-N/Users/jfranklin773/Desktop/MacDev/SocketTemplate/build/SocketTemplate.build/Debug-iphoneos/SocketTemplate.build/SocketTemplate.xcent
-t1304714265
-s434
-
-N/Users/jfranklin773/Desktop/MacDev/SocketTemplate/main.m
-c000000004DC34F1C0000000000000167
-t1304645404
-s359
-i<UIKit/UIKit.h>
-
-N/Users/jfranklin773/Library/MobileDevice/Provisioning Profiles/95E4CA9E-0AFA-4D5F-A8AF-8DF62592D219.mobileprovision
-c000000004DB9AF8D0000000000004F73
-t1304014733
-s20339
-
-N/var/folders/-3/-3smH4hgFXuS9JTI6VmaIE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SocketTemplate_Prefix-clvjcdopdxsjobbgxamgcivvsvch/SocketTemplate_Prefix.pch.gch
-t1304714263
-s10446552
-
-N/var/folders/-3/-3smH4hgFXuS9JTI6VmaIE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SocketTemplate_Prefix-dxrcvuazwppgaycoyxtkncfhatag/SocketTemplate_Prefix.pch.gch
-t1304714264
-s9983704
-
-NSocketTemplate-Info.plist
-c000000004DC34F1C000000000000038D
-t1304645404
-s909
-
-CCheck dependencies
-r0
-lSLF07#2@18"Check dependencies327256735#327256736#0(0"0(0#1#0"8607447072#0"0#
-
-CCodeSign /Users/jfranklin773/Desktop/MacDev/SocketTemplate/build/Debug-iphoneos/SocketTemplate.app
-s327256736.009200
-e327256737.344551
-r1
-xCodeSign
-x/Users/jfranklin773/Desktop/MacDev/SocketTemplate/build/Debug-iphoneos/SocketTemplate.app
-o/Users/jfranklin773/Desktop/MacDev/SocketTemplate/build/Debug-iphoneos/SocketTemplate.app: replacing existing signature
-lSLF07#2@48"CodeSign build/Debug-iphoneos/SocketTemplate.app327256736#327256737#0(120"/Users/jfranklin773/Desktop/MacDev/SocketTemplate/build/Debug-iphoneos/SocketTemplate.app: replacing existing signature0(0#0#89"/Users/jfranklin773/Desktop/MacDev/SocketTemplate/build/Debug-iphoneos/SocketTemplate.app8609264352#728"    cd /Users/jfranklin773/Desktop/MacDev/SocketTemplate    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    setenv _CODESIGN_ALLOCATE_ /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/codesign_allocate    /usr/bin/codesign -f -s "iPhone Developer: John Franklin (2BH9537Q8S)" --resource-rules=/Users/jfranklin773/Desktop/MacDev/SocketTemplate/build/Debug-iphoneos/SocketTemplate.app/ResourceRules.plist --entitlements /Users/jfranklin773/Desktop/MacDev/SocketTemplate/build/SocketTemplate.build/Debug-iphoneos/SocketTemplate.build/SocketTemplate.xcent /Users/jfranklin773/Desktop/MacDev/SocketTemplate/build/Debug-iphoneos/SocketTemplate.app0#
-
-CCompileC build/SocketTemplate.build/Debug-iphoneos/SocketTemplate.build/Objects-normal/armv6/SocketTemplateAppDelegate.o /Users/jfranklin773/Desktop/MacDev/SocketTemplate/Classes/SocketTemplateAppDelegate.m normal armv6 objective-c com.apple.compilers.gcc.4_2
-s326407064.106159
-e326407064.259803
-r1
-xCompileC
-xbuild/SocketTemplate.build/Debug-iphoneos/SocketTemplate.build/Objects-normal/armv6/SocketTemplateAppDelegate.o
-x/Users/jfranklin773/Desktop/MacDev/SocketTemplate/Classes/SocketTemplateAppDelegate.m
-xnormal
-xarmv6
-xobjective-c
-xcom.apple.compilers.gcc.4_2
-lSLF07#2@93"Compile /Users/jfranklin773/Desktop/MacDev/SocketTemplate/Classes/SocketTemplateAppDelegate.m326407064#326407064#0(0"0(0#0#85"/Users/jfranklin773/Desktop/MacDev/SocketTemplate/Classes/SocketTemplateAppDelegate.m8604913024#2035"    cd /Users/jfranklin773/Desktop/MacDev/SocketTemplate    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.2 -iquote /Users/jfranklin773/Desktop/MacDev/SocketTemplate/build/SocketTemplate.build/Debug-iphoneos/SocketTemplate.build/SocketTemplate-generated-files.hmap -I/Users/jfranklin773/Desktop/MacDev/SocketTemplate/build/SocketTemplate.build/Debug-iphoneos/SocketTemplate.build/SocketTemplate-own-target-headers.hmap -I/Users/jfranklin773/Desktop/MacDev/SocketTemplate/build/SocketTemplate.build/Debug-iphoneos/SocketTemplate.build/SocketTemplate-all-target-headers.hmap -iquote /Users/jfranklin773/Desktop/MacDev/SocketTemplate/build/SocketTemplate.build/Debug-iphoneos/SocketTemplate.build/SocketTemplate-project-headers.hmap -F/Users/jfranklin773/Desktop/MacDev/SocketTemplate/build/Debug-iphoneos -I/Users/jfranklin773/Desktop/MacDev/SocketTemplate/build/Debug-iphoneos/include -I/Users/jfranklin773/Desktop/MacDev/SocketTemplate/build/SocketTemplate.build/Debug-iphoneos/SocketTemplate.build/DerivedSources/armv6 -I/Users/jfranklin773/Desktop/MacDev/SocketTemplate/build/SocketTemplate.build/Debug-iphoneos/SocketTemplate.build/DerivedSources -include /var/folders/-3/-3smH4hgFXuS9JTI6VmaIE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SocketTemplate_Prefix-dxrcvuazwppgaycoyxtkncfhatag/SocketTemplate_Prefix.pch -c /Users/jfranklin773/Desktop/MacDev/SocketTemplate/Classes/SocketTemplateAppDelegate.m -o /Users/jfranklin773/Desktop/MacDev/SocketTemplate/build/SocketTemplate.build/Debug-iphoneos/SocketTemplate.build/Objects-normal/armv6/SocketTemplateAppDelegate.o0#
-
-CCompileC build/SocketTemplate.build/Debug-iphoneos/SocketTemplate.build/Objects-normal/armv6/SocketTemplateViewController.o /Users/jfranklin773/Desktop/MacDev/SocketTemplate/Classes/SocketTemplateViewController.m normal armv6 objective-c com.apple.compilers.gcc.4_2
-s326407064.245413
-e326407064.411593
-r1
-xCompileC
-xbuild/SocketTemplate.build/Debug-iphoneos/SocketTemplate.build/Objects-normal/armv6/SocketTemplateViewController.o
-x/Users/jfranklin773/Desktop/MacDev/SocketTemplate/Classes/SocketTemplateViewController.m
-xnormal
-xarmv6
-xobjective-c
-xcom.apple.compilers.gcc.4_2
-o/Users/jfranklin773/Desktop/MacDev/SocketTemplate/Classes/SocketTemplateViewController.m: In function '-[SocketTemplateViewController connect]':
-o/Users/jfranklin773/Desktop/MacDev/SocketTemplate/Classes/SocketTemplateViewController.m:56: warning: class 'SocketTemplateViewController' does not implement the 'NSStreamDelegate' protocol
-o/Users/jfranklin773/Desktop/MacDev/SocketTemplate/Classes/SocketTemplateViewController.m:57: warning: class 'SocketTemplateViewController' does not implement the 'NSStreamDelegate' protocol
-lSLF07#2@96"Compile /Users/jfranklin773/Desktop/MacDev/SocketTemplate/Classes/SocketTemplateViewController.m326407064#326407064#0(525"/Users/jfranklin773/Desktop/MacDev/SocketTemplate/Classes/SocketTemplateViewController.m: In function '-[SocketTemplateViewController connect]':/Users/jfranklin773/Desktop/MacDev/SocketTemplate/Classes/SocketTemplateViewController.m:56: warning: class 'SocketTemplateViewController' does not implement the 'NSStreamDelegate' protocol/Users/jfranklin773/Desktop/MacDev/SocketTemplate/Classes/SocketTemplateViewController.m:57: warning: class 'SocketTemplateViewController' does not implement the 'NSStreamDelegate' protocol2(22@87"Class 'SocketTemplateViewController' does not implement the 'NSStreamDelegate' protocol326407064#145#190#0(6@88"/Users/jfranklin773/Desktop/MacDev/SocketTemplate/Classes/SocketTemplateViewController.m326346350#56#0#56#0#45"class '*' does not implement the '*' protocol0(22@87"Class 'SocketTemplateViewController' does not implement the 'NSStreamDelegate' protocol326407064#335#190#0(6@88"/Users/jfranklin773/Desktop/MacDev/SocketTemplate/Classes/SocketTemplateViewController.m326346350#57#0#57#0#45"class '*' does not implement the '*' protocol0(0#0#88"/Users/jfranklin773/Desktop/MacDev/SocketTemplate/Classes/SocketTemplateViewController.m8603038176#2041"    cd /Users/jfranklin773/Desktop/MacDev/SocketTemplate    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.2 -iquote /Users/jfranklin773/Desktop/MacDev/SocketTemplate/build/SocketTemplate.build/Debug-iphoneos/SocketTemplate.build/SocketTemplate-generated-files.hmap -I/Users/jfranklin773/Desktop/MacDev/SocketTemplate/build/SocketTemplate.build/Debug-iphoneos/SocketTemplate.build/SocketTemplate-own-target-headers.hmap -I/Users/jfranklin773/Desktop/MacDev/SocketTemplate/build/SocketTemplate.build/Debug-iphoneos/SocketTemplate.build/SocketTemplate-all-target-headers.hmap -iquote /Users/jfranklin773/Desktop/MacDev/SocketTemplate/build/SocketTemplate.build/Debug-iphoneos/SocketTemplate.build/SocketTemplate-project-headers.hmap -F/Users/jfranklin773/Desktop/MacDev/SocketTemplate/build/Debug-iphoneos -I/Users/jfranklin773/Desktop/MacDev/SocketTemplate/build/Debug-iphoneos/include -I/Users/jfranklin773/Desktop/MacDev/SocketTemplate/build/SocketTemplate.build/Debug-iphoneos/SocketTemplate.build/DerivedSources/armv6 -I/Users/jfranklin773/Desktop/MacDev/SocketTemplate/build/SocketTemplate.build/Debug-iphoneos/SocketTemplate.build/DerivedSources -include /var/folders/-3/-3smH4hgFXuS9JTI6VmaIE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SocketTemplate_Prefix-dxrcvuazwppgaycoyxtkncfhatag/SocketTemplate_Prefix.pch -c /Users/jfranklin773/Desktop/MacDev/SocketTemplate/Classes/SocketTemplateViewController.m -o /Users/jfranklin773/Desktop/MacDev/SocketTemplate/build/SocketTemplate.build/Debug-iphoneos/SocketTemplate.build/Objects-normal/armv6/SocketTemplateViewController.o0#
-
-CCompileC build/SocketTemplate.build/Debug-iphoneos/SocketTemplate.build/Objects-normal/armv6/main.o /Users/jfranklin773/Desktop/MacDev/SocketTemplate/main.m normal armv6 objective-c com.apple.compilers.gcc.4_2
-s326407064.105054
-e326407064.245310
-r1
-xCompileC
-xbuild/SocketTemplate.build/Debug-iphoneos/SocketTemplate.build/Objects-normal/armv6/main.o
-x/Users/jfranklin773/Desktop/MacDev/SocketTemplate/main.m
-xnormal
-xarmv6
-xobjective-c
-xcom.apple.compilers.gcc.4_2
-lSLF07#2@64"Compile /Users/jfranklin773/Desktop/MacDev/SocketTemplate/main.m326407064#326407064#0(0"0(0#0#56"/Users/jfranklin773/Desktop/MacDev/SocketTemplate/main.m8605564192#1985"    cd /Users/jfranklin773/Desktop/MacDev/SocketTemplate    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.2 -iquote /Users/jfranklin773/Desktop/MacDev/SocketTemplate/build/SocketTemplate.build/Debug-iphoneos/SocketTemplate.build/SocketTemplate-generated-files.hmap -I/Users/jfranklin773/Desktop/MacDev/SocketTemplate/build/SocketTemplate.build/Debug-iphoneos/SocketTemplate.build/SocketTemplate-own-target-headers.hmap -I/Users/jfranklin773/Desktop/MacDev/SocketTemplate/build/SocketTemplate.build/Debug-iphoneos/SocketTemplate.build/SocketTemplate-all-target-headers.hmap -iquote /Users/jfranklin773/Desktop/MacDev/SocketTemplate/build/SocketTemplate.build/Debug-iphoneos/SocketTemplate.build/SocketTemplate-project-headers.hmap -F/Users/jfranklin773/Desktop/MacDev/SocketTemplate/build/Debug-iphoneos -I/Users/jfranklin773/Desktop/MacDev/SocketTemplate/build/Debug-iphoneos/include -I/Users/jfranklin773/Desktop/MacDev/SocketTemplate/build/SocketTemplate.build/Debug-iphoneos/SocketTemplate.build/DerivedSources/armv6 -I/Users/jfranklin773/Desktop/MacDev/SocketTemplate/build/SocketTemplate.build/Debug-iphoneos/SocketTemplate.build/DerivedSources -include /var/folders/-3/-3smH4hgFXuS9JTI6VmaIE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SocketTemplate_Prefix-dxrcvuazwppgaycoyxtkncfhatag/SocketTemplate_Prefix.pch -c /Users/jfranklin773/Desktop/MacDev/SocketTemplate/main.m -o /Users/jfranklin773/Desktop/MacDev/SocketTemplate/build/SocketTemplate.build/Debug-iphoneos/SocketTemplate.build/Objects-normal/armv6/main.o0#
-
-CCompileC build/SocketTemplate.build/Debug-iphoneos/SocketTemplate.build/Objects-normal/armv7/SocketTemplateAppDelegate.o /Users/jfranklin773/Desktop/MacDev/SocketTemplate/Classes/SocketTemplateAppDelegate.m normal armv7 objective-c com.apple.compilers.gcc.4_2
-s326407064.328168
-e326407064.451799
-r1
-xCompileC
-xbuild/SocketTemplate.build/Debug-iphoneos/SocketTemplate.build/Objects-normal/armv7/SocketTemplateAppDelegate.o
-x/Users/jfranklin773/Desktop/MacDev/SocketTemplate/Classes/SocketTemplateAppDelegate.m
-xnormal
-xarmv7
-xobjective-c
-xcom.apple.compilers.gcc.4_2
-lSLF07#2@93"Compile /Users/jfranklin773/Desktop/MacDev/SocketTemplate/Classes/SocketTemplateAppDelegate.m326407064#326407064#0(0"0(0#0#85"/Users/jfranklin773/Desktop/MacDev/SocketTemplate/Classes/SocketTemplateAppDelegate.m8602628352#2035"    cd /Users/jfranklin773/Desktop/MacDev/SocketTemplate    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.2 -iquote /Users/jfranklin773/Desktop/MacDev/SocketTemplate/build/SocketTemplate.build/Debug-iphoneos/SocketTemplate.build/SocketTemplate-generated-files.hmap -I/Users/jfranklin773/Desktop/MacDev/SocketTemplate/build/SocketTemplate.build/Debug-iphoneos/SocketTemplate.build/SocketTemplate-own-target-headers.hmap -I/Users/jfranklin773/Desktop/MacDev/SocketTemplate/build/SocketTemplate.build/Debug-iphoneos/SocketTemplate.build/SocketTemplate-all-target-headers.hmap -iquote /Users/jfranklin773/Desktop/MacDev/SocketTemplate/build/SocketTemplate.build/Debug-iphoneos/SocketTemplate.build/SocketTemplate-project-headers.hmap -F/Users/jfranklin773/Desktop/MacDev/SocketTemplate/build/Debug-iphoneos -I/Users/jfranklin773/Desktop/MacDev/SocketTemplate/build/Debug-iphoneos/include -I/Users/jfranklin773/Desktop/MacDev/SocketTemplate/build/SocketTemplate.build/Debug-iphoneos/SocketTemplate.build/DerivedSources/armv7 -I/Users/jfranklin773/Desktop/MacDev/SocketTemplate/build/SocketTemplate.build/Debug-iphoneos/SocketTemplate.build/DerivedSources -include /var/folders/-3/-3smH4hgFXuS9JTI6VmaIE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SocketTemplate_Prefix-clvjcdopdxsjobbgxamgcivvsvch/SocketTemplate_Prefix.pch -c /Users/jfranklin773/Desktop/MacDev/SocketTemplate/Classes/SocketTemplateAppDelegate.m -o /Users/jfranklin773/Desktop/MacDev/SocketTemplate/build/SocketTemplate.build/Debug-iphoneos/SocketTemplate.build/Objects-normal/armv7/SocketTemplateAppDelegate.o0#
-
-CCompileC build/SocketTemplate.build/Debug-iphoneos/SocketTemplate.build/Objects-normal/armv7/SocketTemplateViewController.o /Users/jfranklin773/Desktop/MacDev/SocketTemplate/Classes/SocketTemplateViewController.m normal armv7 objective-c com.apple.compilers.gcc.4_2
-s326407064.451907
-e326407064.551592
-r1
-xCompileC
-xbuild/SocketTemplate.build/Debug-iphoneos/SocketTemplate.build/Objects-normal/armv7/SocketTemplateViewController.o
-x/Users/jfranklin773/Desktop/MacDev/SocketTemplate/Classes/SocketTemplateViewController.m
-xnormal
-xarmv7
-xobjective-c
-xcom.apple.compilers.gcc.4_2
-o/Users/jfranklin773/Desktop/MacDev/SocketTemplate/Classes/SocketTemplateViewController.m: In function '-[SocketTemplateViewController connect]':
-o/Users/jfranklin773/Desktop/MacDev/SocketTemplate/Classes/SocketTemplateViewController.m:56: warning: class 'SocketTemplateViewController' does not implement the 'NSStreamDelegate' protocol
-o/Users/jfranklin773/Desktop/MacDev/SocketTemplate/Classes/SocketTemplateViewController.m:57: warning: class 'SocketTemplateViewController' does not implement the 'NSStreamDelegate' protocol
-lSLF07#2@96"Compile /Users/jfranklin773/Desktop/MacDev/SocketTemplate/Classes/SocketTemplateViewController.m326407064#326407064#0(525"/Users/jfranklin773/Desktop/MacDev/SocketTemplate/Classes/SocketTemplateViewController.m: In function '-[SocketTemplateViewController connect]':/Users/jfranklin773/Desktop/MacDev/SocketTemplate/Classes/SocketTemplateViewController.m:56: warning: class 'SocketTemplateViewController' does not implement the 'NSStreamDelegate' protocol/Users/jfranklin773/Desktop/MacDev/SocketTemplate/Classes/SocketTemplateViewController.m:57: warning: class 'SocketTemplateViewController' does not implement the 'NSStreamDelegate' protocol2(22@87"Class 'SocketTemplateViewController' does not implement the 'NSStreamDelegate' protocol326407064#145#190#0(6@88"/Users/jfranklin773/Desktop/MacDev/SocketTemplate/Classes/SocketTemplateViewController.m326346350#56#0#56#0#45"class '*' does not implement the '*' protocol0(22@87"Class 'SocketTemplateViewController' does not implement the 'NSStreamDelegate' protocol326407064#335#190#0(6@88"/Users/jfranklin773/Desktop/MacDev/SocketTemplate/Classes/SocketTemplateViewController.m326346350#57#0#57#0#45"class '*' does not implement the '*' protocol0(0#0#88"/Users/jfranklin773/Desktop/MacDev/SocketTemplate/Classes/SocketTemplateViewController.m8604767904#2041"    cd /Users/jfranklin773/Desktop/MacDev/SocketTemplate    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.2 -iquote /Users/jfranklin773/Desktop/MacDev/SocketTemplate/build/SocketTemplate.build/Debug-iphoneos/SocketTemplate.build/SocketTemplate-generated-files.hmap -I/Users/jfranklin773/Desktop/MacDev/SocketTemplate/build/SocketTemplate.build/Debug-iphoneos/SocketTemplate.build/SocketTemplate-own-target-headers.hmap -I/Users/jfranklin773/Desktop/MacDev/SocketTemplate/build/SocketTemplate.build/Debug-iphoneos/SocketTemplate.build/SocketTemplate-all-target-headers.hmap -iquote /Users/jfranklin773/Desktop/MacDev/SocketTemplate/build/SocketTemplate.build/Debug-iphoneos/SocketTemplate.build/SocketTemplate-project-headers.hmap -F/Users/jfranklin773/Desktop/MacDev/SocketTemplate/build/Debug-iphoneos -I/Users/jfranklin773/Desktop/MacDev/SocketTemplate/build/Debug-iphoneos/include -I/Users/jfranklin773/Desktop/MacDev/SocketTemplate/build/SocketTemplate.build/Debug-iphoneos/SocketTemplate.build/DerivedSources/armv7 -I/Users/jfranklin773/Desktop/MacDev/SocketTemplate/build/SocketTemplate.build/Debug-iphoneos/SocketTemplate.build/DerivedSources -include /var/folders/-3/-3smH4hgFXuS9JTI6VmaIE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SocketTemplate_Prefix-clvjcdopdxsjobbgxamgcivvsvch/SocketTemplate_Prefix.pch -c /Users/jfranklin773/Desktop/MacDev/SocketTemplate/Classes/SocketTemplateViewController.m -o /Users/jfranklin773/Desktop/MacDev/SocketTemplate/build/SocketTemplate.build/Debug-iphoneos/SocketTemplate.build/Objects-normal/armv7/SocketTemplateViewController.o0#
-
-CCompileC build/SocketTemplate.build/Debug-iphoneos/SocketTemplate.build/Objects-normal/armv7/main.o /Users/jfranklin773/Desktop/MacDev/SocketTemplate/main.m normal armv7 objective-c com.apple.compilers.gcc.4_2
-s326407064.259913
-e326407064.328073
-r1
-xCompileC
-xbuild/SocketTemplate.build/Debug-iphoneos/SocketTemplate.build/Objects-normal/armv7/main.o
-x/Users/jfranklin773/Desktop/MacDev/SocketTemplate/main.m
-xnormal
-xarmv7
-xobjective-c
-xcom.apple.compilers.gcc.4_2
-lSLF07#2@64"Compile /Users/jfranklin773/Desktop/MacDev/SocketTemplate/main.m326407064#326407064#0(0"0(0#0#56"/Users/jfranklin773/Desktop/MacDev/SocketTemplate/main.m8602352032#1985"    cd /Users/jfranklin773/Desktop/MacDev/SocketTemplate    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.2 -iquote /Users/jfranklin773/Desktop/MacDev/SocketTemplate/build/SocketTemplate.build/Debug-iphoneos/SocketTemplate.build/SocketTemplate-generated-files.hmap -I/Users/jfranklin773/Desktop/MacDev/SocketTemplate/build/SocketTemplate.build/Debug-iphoneos/SocketTemplate.build/SocketTemplate-own-target-headers.hmap -I/Users/jfranklin773/Desktop/MacDev/SocketTemplate/build/SocketTemplate.build/Debug-iphoneos/SocketTemplate.build/SocketTemplate-all-target-headers.hmap -iquote /Users/jfranklin773/Desktop/MacDev/SocketTemplate/build/SocketTemplate.build/Debug-iphoneos/SocketTemplate.build/SocketTemplate-project-headers.hmap -F/Users/jfranklin773/Desktop/MacDev/SocketTemplate/build/Debug-iphoneos -I/Users/jfranklin773/Desktop/MacDev/SocketTemplate/build/Debug-iphoneos/include -I/Users/jfranklin773/Desktop/MacDev/SocketTemplate/build/SocketTemplate.build/Debug-iphoneos/SocketTemplate.build/DerivedSources/armv7 -I/Users/jfranklin773/Desktop/MacDev/SocketTemplate/build/SocketTemplate.build/Debug-iphoneos/SocketTemplate.build/DerivedSources -include /var/folders/-3/-3smH4hgFXuS9JTI6VmaIE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SocketTemplate_Prefix-clvjcdopdxsjobbgxamgcivvsvch/SocketTemplate_Prefix.pch -c /Users/jfranklin773/Desktop/MacDev/SocketTemplate/main.m -o /Users/jfranklin773/Desktop/MacDev/SocketTemplate/build/SocketTemplate.build/Debug-iphoneos/SocketTemplate.build/Objects-normal/armv7/main.o0#
-
-CCompileXIB /Users/jfranklin773/Desktop/MacDev/SocketTemplate/MainWindow.xib
-s326407061.363738
-e326407062.035458
-r1
-xCompileXIB
-x/Users/jfranklin773/Desktop/MacDev/SocketTemplate/MainWindow.xib
-lSLF07#2@25"CompileXIB MainWindow.xib326407061#326407062#0(0"0(0#0#64"/Users/jfranklin773/Desktop/MacDev/SocketTemplate/MainWindow.xib8605191168#582"    cd /Users/jfranklin773/Desktop/MacDev/SocketTemplate    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/jfranklin773/Desktop/MacDev/SocketTemplate/build/Debug-iphoneos/SocketTemplate.app/MainWindow.nib /Users/jfranklin773/Desktop/MacDev/SocketTemplate/MainWindow.xib --sdk /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk0#
-
-CCompileXIB /Users/jfranklin773/Desktop/MacDev/SocketTemplate/SocketTemplateViewController.xib
-s326407061.364421
-e326407062.059281
-r1
-xCompileXIB
-x/Users/jfranklin773/Desktop/MacDev/SocketTemplate/SocketTemplateViewController.xib
-lSLF07#2@43"CompileXIB SocketTemplateViewController.xib326407061#326407062#0(0"0(0#0#82"/Users/jfranklin773/Desktop/MacDev/SocketTemplate/SocketTemplateViewController.xib8604986688#618"    cd /Users/jfranklin773/Desktop/MacDev/SocketTemplate    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/jfranklin773/Desktop/MacDev/SocketTemplate/build/Debug-iphoneos/SocketTemplate.app/SocketTemplateViewController.nib /Users/jfranklin773/Desktop/MacDev/SocketTemplate/SocketTemplateViewController.xib --sdk /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk0#
-
-CCpResource build/Debug-iphoneos/SocketTemplate.app/ResourceRules.plist /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/ResourceRules.plist
-s326407061.213663
-e326407061.363662
-r1
-xCpResource
-xbuild/Debug-iphoneos/SocketTemplate.app/ResourceRules.plist
-x/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/ResourceRules.plist
-lSLF07#2@94"Copy /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/ResourceRules.plist326407061#326407061#0(0"0(0#0#89"/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/ResourceRules.plist8243118316833830912#523"    cd /Users/jfranklin773/Desktop/MacDev/SocketTemplate    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/ResourceRules.plist /Users/jfranklin773/Desktop/MacDev/SocketTemplate/build/Debug-iphoneos/SocketTemplate.app0#
-
-CCreateUniversalBinary /Users/jfranklin773/Desktop/MacDev/SocketTemplate/build/Debug-iphoneos/SocketTemplate.app/SocketTemplate normal "armv6 armv7"
-s326407065.204047
-e326407065.402017
-r1
-xCreateUniversalBinary
-x/Users/jfranklin773/Desktop/MacDev/SocketTemplate/build/Debug-iphoneos/SocketTemplate.app/SocketTemplate
-xnormal
-xarmv6 armv7
-lSLF07#2@97"CreateUniversalBinary build/Debug-iphoneos/SocketTemplate.app/SocketTemplate normal "armv6 armv7"326407065#326407065#0(0"0(0#0#61"/Users/jfranklin773/Desktop/MacDev/SocketTemplate/armv6 armv78598870496#618"    cd /Users/jfranklin773/Desktop/MacDev/SocketTemplate    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/lipo -create /Users/jfranklin773/Desktop/MacDev/SocketTemplate/build/SocketTemplate.build/Debug-iphoneos/SocketTemplate.build/Objects-normal/armv6/SocketTemplate /Users/jfranklin773/Desktop/MacDev/SocketTemplate/build/SocketTemplate.build/Debug-iphoneos/SocketTemplate.build/Objects-normal/armv7/SocketTemplate -output /Users/jfranklin773/Desktop/MacDev/SocketTemplate/build/Debug-iphoneos/SocketTemplate.app/SocketTemplate0#
-
-CGenerateDSYMFile /Users/jfranklin773/Desktop/MacDev/SocketTemplate/build/Debug-iphoneos/SocketTemplate.app.dSYM /Users/jfranklin773/Desktop/MacDev/SocketTemplate/build/Debug-iphoneos/SocketTemplate.app/SocketTemplate
-s326407065.402118
-e326407065.500360
-r1
-xGenerateDSYMFile
-x/Users/jfranklin773/Desktop/MacDev/SocketTemplate/build/Debug-iphoneos/SocketTemplate.app.dSYM
-x/Users/jfranklin773/Desktop/MacDev/SocketTemplate/build/Debug-iphoneos/SocketTemplate.app/SocketTemplate
-lSLF07#2@116"GenerateDSYMFile build/Debug-iphoneos/SocketTemplate.app.dSYM build/Debug-iphoneos/SocketTemplate.app/SocketTemplate326407065#326407065#0(0"0(0#0#104"/Users/jfranklin773/Desktop/MacDev/SocketTemplate/build/Debug-iphoneos/SocketTemplate.app/SocketTemplate8604791200#416"    cd /Users/jfranklin773/Desktop/MacDev/SocketTemplate    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /Users/jfranklin773/Desktop/MacDev/SocketTemplate/build/Debug-iphoneos/SocketTemplate.app/SocketTemplate -o /Users/jfranklin773/Desktop/MacDev/SocketTemplate/build/Debug-iphoneos/SocketTemplate.app.dSYM0#
-
-CLd /Users/jfranklin773/Desktop/MacDev/SocketTemplate/build/SocketTemplate.build/Debug-iphoneos/SocketTemplate.build/Objects-normal/armv6/SocketTemplate normal armv6
-s326407064.411680
-e326407065.202636
-r1
-xLd
-x/Users/jfranklin773/Desktop/MacDev/SocketTemplate/build/SocketTemplate.build/Debug-iphoneos/SocketTemplate.build/Objects-normal/armv6/SocketTemplate
-xnormal
-xarmv6
-lSLF07#2@153"Link /Users/jfranklin773/Desktop/MacDev/SocketTemplate/build/SocketTemplate.build/Debug-iphoneos/SocketTemplate.build/Objects-normal/armv6/SocketTemplate326407064#326407065#0(0"0(0#0#0"8603400928#956"    cd /Users/jfranklin773/Desktop/MacDev/SocketTemplate    setenv IPHONEOS_DEPLOYMENT_TARGET 4.2    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -arch armv6 -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -L/Users/jfranklin773/Desktop/MacDev/SocketTemplate/build/Debug-iphoneos -F/Users/jfranklin773/Desktop/MacDev/SocketTemplate/build/Debug-iphoneos -filelist /Users/jfranklin773/Desktop/MacDev/SocketTemplate/build/SocketTemplate.build/Debug-iphoneos/SocketTemplate.build/Objects-normal/armv6/SocketTemplate.LinkFileList -dead_strip -miphoneos-version-min=4.2 -framework Foundation -framework UIKit -framework CoreGraphics -o /Users/jfranklin773/Desktop/MacDev/SocketTemplate/build/SocketTemplate.build/Debug-iphoneos/SocketTemplate.build/Objects-normal/armv6/SocketTemplate0#
-
-CLd /Users/jfranklin773/Desktop/MacDev/SocketTemplate/build/SocketTemplate.build/Debug-iphoneos/SocketTemplate.build/Objects-normal/armv7/SocketTemplate normal armv7
-s326407064.551692
-e326407065.203969
-r1
-xLd
-x/Users/jfranklin773/Desktop/MacDev/SocketTemplate/build/SocketTemplate.build/Debug-iphoneos/SocketTemplate.build/Objects-normal/armv7/SocketTemplate
-xnormal
-xarmv7
-lSLF07#2@153"Link /Users/jfranklin773/Desktop/MacDev/SocketTemplate/build/SocketTemplate.build/Debug-iphoneos/SocketTemplate.build/Objects-normal/armv7/SocketTemplate326407064#326407065#0(0"0(0#0#0"8602639200#956"    cd /Users/jfranklin773/Desktop/MacDev/SocketTemplate    setenv IPHONEOS_DEPLOYMENT_TARGET 4.2    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -arch armv7 -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -L/Users/jfranklin773/Desktop/MacDev/SocketTemplate/build/Debug-iphoneos -F/Users/jfranklin773/Desktop/MacDev/SocketTemplate/build/Debug-iphoneos -filelist /Users/jfranklin773/Desktop/MacDev/SocketTemplate/build/SocketTemplate.build/Debug-iphoneos/SocketTemplate.build/Objects-normal/armv7/SocketTemplate.LinkFileList -dead_strip -miphoneos-version-min=4.2 -framework Foundation -framework UIKit -framework CoreGraphics -o /Users/jfranklin773/Desktop/MacDev/SocketTemplate/build/SocketTemplate.build/Debug-iphoneos/SocketTemplate.build/Objects-normal/armv7/SocketTemplate0#
-
-CProcessInfoPlistFile /Users/jfranklin773/Desktop/MacDev/SocketTemplate/build/Debug-iphoneos/SocketTemplate.app/Info.plist SocketTemplate-Info.plist
-s326407061.272255
-e326407061.292815
-r1
-xProcessInfoPlistFile
-x/Users/jfranklin773/Desktop/MacDev/SocketTemplate/build/Debug-iphoneos/SocketTemplate.app/Info.plist
-xSocketTemplate-Info.plist
-lSLF07#2@33"Process SocketTemplate-Info.plist326407061#326407061#0(0"0(0#0#75"/Users/jfranklin773/Desktop/MacDev/SocketTemplate/SocketTemplate-Info.plist8605403936#634"    cd /Users/jfranklin773/Desktop/MacDev/SocketTemplate    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility SocketTemplate-Info.plist -genpkginfo /Users/jfranklin773/Desktop/MacDev/SocketTemplate/build/Debug-iphoneos/SocketTemplate.app/PkgInfo -expandbuildsettings -format binary -platform iphoneos -resourcerulesfile /Users/jfranklin773/Desktop/MacDev/SocketTemplate/build/Debug-iphoneos/SocketTemplate.app/ResourceRules.plist -o /Users/jfranklin773/Desktop/MacDev/SocketTemplate/build/Debug-iphoneos/SocketTemplate.app/Info.plist0#
-
-CProcessPCH /var/folders/-3/-3smH4hgFXuS9JTI6VmaIE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SocketTemplate_Prefix-clvjcdopdxsjobbgxamgcivvsvch/SocketTemplate_Prefix.pch.gch SocketTemplate_Prefix.pch normal armv7 objective-c com.apple.compilers.gcc.4_2
-s326407062.084837
-e326407063.919148
-r1
-xProcessPCH
-x/var/folders/-3/-3smH4hgFXuS9JTI6VmaIE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SocketTemplate_Prefix-clvjcdopdxsjobbgxamgcivvsvch/SocketTemplate_Prefix.pch.gch
-xSocketTemplate_Prefix.pch
-xnormal
-xarmv7
-xobjective-c
-xcom.apple.compilers.gcc.4_2
-lSLF07#2@36"Precompile SocketTemplate_Prefix.pch326407062#326407063#0(0"0(0#0#75"/Users/jfranklin773/Desktop/MacDev/SocketTemplate/SocketTemplate_Prefix.pch8602981664#1865"    cd /Users/jfranklin773/Desktop/MacDev/SocketTemplate    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.2 -iquote /Users/jfranklin773/Desktop/MacDev/SocketTemplate/build/SocketTemplate.build/Debug-iphoneos/SocketTemplate.build/SocketTemplate-generated-files.hmap -I/Users/jfranklin773/Desktop/MacDev/SocketTemplate/build/SocketTemplate.build/Debug-iphoneos/SocketTemplate.build/SocketTemplate-own-target-headers.hmap -I/Users/jfranklin773/Desktop/MacDev/SocketTemplate/build/SocketTemplate.build/Debug-iphoneos/SocketTemplate.build/SocketTemplate-all-target-headers.hmap -iquote /Users/jfranklin773/Desktop/MacDev/SocketTemplate/build/SocketTemplate.build/Debug-iphoneos/SocketTemplate.build/SocketTemplate-project-headers.hmap -F/Users/jfranklin773/Desktop/MacDev/SocketTemplate/build/Debug-iphoneos -I/Users/jfranklin773/Desktop/MacDev/SocketTemplate/build/Debug-iphoneos/include -I/Users/jfranklin773/Desktop/MacDev/SocketTemplate/build/SocketTemplate.build/Debug-iphoneos/SocketTemplate.build/DerivedSources/armv7 -I/Users/jfranklin773/Desktop/MacDev/SocketTemplate/build/SocketTemplate.build/Debug-iphoneos/SocketTemplate.build/DerivedSources -c /Users/jfranklin773/Desktop/MacDev/SocketTemplate/SocketTemplate_Prefix.pch -o /var/folders/-3/-3smH4hgFXuS9JTI6VmaIE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SocketTemplate_Prefix-clvjcdopdxsjobbgxamgcivvsvch/SocketTemplate_Prefix.pch.gch0#
-
-CProcessPCH /var/folders/-3/-3smH4hgFXuS9JTI6VmaIE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SocketTemplate_Prefix-dxrcvuazwppgaycoyxtkncfhatag/SocketTemplate_Prefix.pch.gch SocketTemplate_Prefix.pch normal armv6 objective-c com.apple.compilers.gcc.4_2
-s326407062.059437
-e326407064.104951
-r1
-xProcessPCH
-x/var/folders/-3/-3smH4hgFXuS9JTI6VmaIE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SocketTemplate_Prefix-dxrcvuazwppgaycoyxtkncfhatag/SocketTemplate_Prefix.pch.gch
-xSocketTemplate_Prefix.pch
-xnormal
-xarmv6
-xobjective-c
-xcom.apple.compilers.gcc.4_2
-lSLF07#2@36"Precompile SocketTemplate_Prefix.pch326407062#326407064#0(0"0(0#0#75"/Users/jfranklin773/Desktop/MacDev/SocketTemplate/SocketTemplate_Prefix.pch8604689088#1865"    cd /Users/jfranklin773/Desktop/MacDev/SocketTemplate    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.2 -iquote /Users/jfranklin773/Desktop/MacDev/SocketTemplate/build/SocketTemplate.build/Debug-iphoneos/SocketTemplate.build/SocketTemplate-generated-files.hmap -I/Users/jfranklin773/Desktop/MacDev/SocketTemplate/build/SocketTemplate.build/Debug-iphoneos/SocketTemplate.build/SocketTemplate-own-target-headers.hmap -I/Users/jfranklin773/Desktop/MacDev/SocketTemplate/build/SocketTemplate.build/Debug-iphoneos/SocketTemplate.build/SocketTemplate-all-target-headers.hmap -iquote /Users/jfranklin773/Desktop/MacDev/SocketTemplate/build/SocketTemplate.build/Debug-iphoneos/SocketTemplate.build/SocketTemplate-project-headers.hmap -F/Users/jfranklin773/Desktop/MacDev/SocketTemplate/build/Debug-iphoneos -I/Users/jfranklin773/Desktop/MacDev/SocketTemplate/build/Debug-iphoneos/include -I/Users/jfranklin773/Desktop/MacDev/SocketTemplate/build/SocketTemplate.build/Debug-iphoneos/SocketTemplate.build/DerivedSources/armv6 -I/Users/jfranklin773/Desktop/MacDev/SocketTemplate/build/SocketTemplate.build/Debug-iphoneos/SocketTemplate.build/DerivedSources -c /Users/jfranklin773/Desktop/MacDev/SocketTemplate/SocketTemplate_Prefix.pch -o /var/folders/-3/-3smH4hgFXuS9JTI6VmaIE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SocketTemplate_Prefix-dxrcvuazwppgaycoyxtkncfhatag/SocketTemplate_Prefix.pch.gch0#
-
-CProcessProductPackaging "/Users/jfranklin773/Library/MobileDevice/Provisioning Profiles/95E4CA9E-0AFA-4D5F-A8AF-8DF62592D219.mobileprovision" /Users/jfranklin773/Desktop/MacDev/SocketTemplate/build/Debug-iphoneos/SocketTemplate.app/embedded.mobileprovision
-s326407065.500579
-e326407065.535724
-r1
-xProcessProductPackaging
-x/Users/jfranklin773/Library/MobileDevice/Provisioning Profiles/95E4CA9E-0AFA-4D5F-A8AF-8DF62592D219.mobileprovision
-x/Users/jfranklin773/Desktop/MacDev/SocketTemplate/build/Debug-iphoneos/SocketTemplate.app/embedded.mobileprovision
-lSLF07#2@206"ProcessProductPackaging "/Users/jfranklin773/Library/MobileDevice/Provisioning Profiles/95E4CA9E-0AFA-4D5F-A8AF-8DF62592D219.mobileprovision" build/Debug-iphoneos/SocketTemplate.app/embedded.mobileprovision326407065#326407065#0(0"0(0#0#114"/Users/jfranklin773/Desktop/MacDev/SocketTemplate/build/Debug-iphoneos/SocketTemplate.app/embedded.mobileprovision8602372864#459"    cd /Users/jfranklin773/Desktop/MacDev/SocketTemplate    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    <com.apple.tools.product-pkg-utility> "/Users/jfranklin773/Library/MobileDevice/Provisioning Profiles/95E4CA9E-0AFA-4D5F-A8AF-8DF62592D219.mobileprovision" -o /Users/jfranklin773/Desktop/MacDev/SocketTemplate/build/Debug-iphoneos/SocketTemplate.app/embedded.mobileprovision0#
-
-CProcessProductPackaging /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/Entitlements.plist /Users/jfranklin773/Desktop/MacDev/SocketTemplate/build/SocketTemplate.build/Debug-iphoneos/SocketTemplate.build/SocketTemplate.xcent
-s326407065.559436
-e326407065.586630
-r1
-xProcessProductPackaging
-x/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/Entitlements.plist
-x/Users/jfranklin773/Desktop/MacDev/SocketTemplate/build/SocketTemplate.build/Debug-iphoneos/SocketTemplate.build/SocketTemplate.xcent
-lSLF07#2@196"ProcessProductPackaging /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/Entitlements.plist build/SocketTemplate.build/Debug-iphoneos/SocketTemplate.build/SocketTemplate.xcent326407065#326407065#0(0"0(0#0#133"/Users/jfranklin773/Desktop/MacDev/SocketTemplate/build/SocketTemplate.build/Debug-iphoneos/SocketTemplate.build/SocketTemplate.xcent8603014592#475"    cd /Users/jfranklin773/Desktop/MacDev/SocketTemplate    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    <com.apple.tools.product-pkg-utility> /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/Entitlements.plist -entitlements -format xml -o /Users/jfranklin773/Desktop/MacDev/SocketTemplate/build/SocketTemplate.build/Debug-iphoneos/SocketTemplate.build/SocketTemplate.xcent0#
-
-CTouch /Users/jfranklin773/Desktop/MacDev/SocketTemplate/build/Debug-iphoneos/SocketTemplate.app
-s326407065.535806
-e326407065.559337
-r1
-xTouch
-x/Users/jfranklin773/Desktop/MacDev/SocketTemplate/build/Debug-iphoneos/SocketTemplate.app
-lSLF07#2@95"Touch /Users/jfranklin773/Desktop/MacDev/SocketTemplate/build/Debug-iphoneos/SocketTemplate.app326407065#326407065#0(0"0(0#0#0"8598574912#293"    cd /Users/jfranklin773/Desktop/MacDev/SocketTemplate    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/jfranklin773/Desktop/MacDev/SocketTemplate/build/Debug-iphoneos/SocketTemplate.app0#
-
