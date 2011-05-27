@@ -1,662 +1,0 @@
-TVideoWall
-v7
-r0
-t328158971.292291
-cCheck dependencies
-cProcessInfoPlistFile /Users/jfranklin773/Desktop/VideoWall/build/Debug-iphonesimulator/VideoWall.app/Info.plist VideoWall-Info.plist
-cCompileXIB /Users/jfranklin773/Desktop/VideoWall/MainWindow.xib
-cCompileXIB /Users/jfranklin773/Desktop/VideoWall/FirstView.xib
-cCpResource build/Debug-iphonesimulator/VideoWall.app/Default.png Default.png
-cCpResource build/Debug-iphonesimulator/VideoWall.app/icon3.png icon3.png
-cCpResource build/Debug-iphonesimulator/VideoWall.app/team.png team.png
-cCpResource build/Debug-iphonesimulator/VideoWall.app/tylerh.jpg tylerh.jpg
-cCompileXIB /Users/jfranklin773/Desktop/VideoWall/Classes/Voting.xib
-cProcessPCH /var/folders/-3/-3smH4hgFXuS9JTI6VmaIE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/VideoWall_Prefix-aqmqvlvufzihpsasvdbsomryjmlg/VideoWall_Prefix.pch.gch VideoWall_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
-cCompileC build/VideoWall.build/Debug-iphonesimulator/VideoWall.build/Objects-normal/i386/main.o /Users/jfranklin773/Desktop/VideoWall/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
-cCompileC build/VideoWall.build/Debug-iphonesimulator/VideoWall.build/Objects-normal/i386/VideoWallAppDelegate.o /Users/jfranklin773/Desktop/VideoWall/Classes/VideoWallAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
-cCompileC build/VideoWall.build/Debug-iphonesimulator/VideoWall.build/Objects-normal/i386/FirstViewController.o /Users/jfranklin773/Desktop/VideoWall/Classes/FirstViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
-cCompileC build/VideoWall.build/Debug-iphonesimulator/VideoWall.build/Objects-normal/i386/Voting.o /Users/jfranklin773/Desktop/VideoWall/Classes/Voting.m normal i386 objective-c com.apple.compilers.gcc.4_2
-cCompileC build/VideoWall.build/Debug-iphonesimulator/VideoWall.build/Objects-normal/i386/Cst420Socket.o /Users/jfranklin773/Desktop/VideoWall/Classes/Cst420Socket.m normal i386 objective-c com.apple.compilers.gcc.4_2
-cCompileC build/VideoWall.build/Debug-iphonesimulator/VideoWall.build/Objects-normal/i386/ServerHandler.o /Users/jfranklin773/Desktop/VideoWall/Classes/ServerHandler.m normal i386 objective-c com.apple.compilers.gcc.4_2
-cLd /Users/jfranklin773/Desktop/VideoWall/build/Debug-iphonesimulator/VideoWall.app/VideoWall normal i386
-cGenerateDSYMFile /Users/jfranklin773/Desktop/VideoWall/build/Debug-iphonesimulator/VideoWall.app.dSYM /Users/jfranklin773/Desktop/VideoWall/build/Debug-iphonesimulator/VideoWall.app/VideoWall
-cTouch /Users/jfranklin773/Desktop/VideoWall/build/Debug-iphonesimulator/VideoWall.app
-
-N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk
-c000000004CC128950000000000000110
-t1287727253
-s272
-
-N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
-c000000004CC12246000000000029B310
-t1287725638
-s2732816
-
-N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/Foundation.framework/Foundation
-c000000004CC1226D000000000029D5D0
-t1287725677
-s2741712
-
-N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
-c000000004CC1225F0000000000001466
-t1287725663
-s5222
-
-N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSArray.h
-c000000004CC1225F0000000000001B27
-t1287725663
-s6951
-
-N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSAutoreleasePool.h
-c000000004CC1225F00000000000001CB
-t1287725663
-s459
-
-N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSData.h
-c000000004CC1225F0000000000001777
-t1287725663
-s6007
-
-N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSFileHandle.h
-c000000004CC1225F0000000000000A90
-t1287725663
-s2704
-
-N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSString.h
-c000000004CC1225F0000000000006506
-t1287725663
-s25862
-
-N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
-c000000004CC1281F0000000000000AA1
-t1287727135
-s2721
-
-N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/UIKit.framework/UIKit
-c000000004CC12883000000000074D7B0
-t1287727235
-s7657392
-
-N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/usr/include/arpa/inet.h
-c000000004CB3E46D0000000000001533
-t1286857837
-s5427
-
-N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/usr/include/errno.h
-c000000004CB3E48600000000000003EB
-t1286857862
-s1003
-
-N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/usr/include/ifaddrs.h
-c000000004CB3E4770000000000000782
-t1286857847
-s1922
-
-N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/usr/include/netdb.h
-c000000004A4181220000000000003057
-t1245806882
-s12375
-
-N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/usr/include/netinet/in.h
-c000000004CBFACA90000000000005462
-t1287629993
-s21602
-
-N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/usr/include/signal.h
-c000000004CB3E48600000000000014F0
-t1286857862
-s5360
-
-N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/usr/include/stdio.h
-c000000004CB3E48600000000000040AC
-t1286857862
-s16556
-
-N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/usr/include/stdlib.h
-c000000004CB3E4860000000000002DF5
-t1286857862
-s11765
-
-N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/usr/include/string.h
-c000000004CB3E4860000000000001731
-t1286857862
-s5937
-
-N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/usr/include/sys/param.h
-c000000004CBFACAB00000000000027BE
-t1287629995
-s10174
-
-N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/usr/include/sys/socket.h
-c000000004CBFACAC0000000000005A69
-t1287629996
-s23145
-
-N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/usr/include/sys/types.h
-c000000004CBFACAC0000000000002905
-t1287629996
-s10501
-
-N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/usr/include/sys/wait.h
-c000000004CBFACAD000000000000273C
-t1287629997
-s10044
-
-N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/usr/include/unistd.h
-c000000004CB3E486000000000000563E
-t1286857862
-s22078
-
-N/Users/jfranklin773/Desktop/VideoWall/Classes/Cst420Socket.h
-c000000004CBF08260000000000000986
-t1287587878
-s2438
-i<Foundation/Foundation.h>
-i<stdio.h>
-i<stdlib.h>
-i<errno.h>
-i<string.h>
-i<sys/types.h>
-i<signal.h>
-i<ws2tcpip.h>
-i<winsock2.h>
-i<sys/wait.h>
-i<netdb.h>
-i<unistd.h>
-i<sys/param.h>
-i<sys/socket.h>
-i<netinet/in.h>
-i<arpa/inet.h>
-
-N/Users/jfranklin773/Desktop/VideoWall/Classes/Cst420Socket.m
-c000000004CE040C0000000000000163E
-t1289765056
-s5694
-i"Cst420Socket.h"
-
-N/Users/jfranklin773/Desktop/VideoWall/Classes/FirstViewController.h
-c000000004D8BC6BB0000000000000179
-t1301006011
-s377
-i<UIKit/UIKit.h>
-
-N/Users/jfranklin773/Desktop/VideoWall/Classes/FirstViewController.m
-c000000004D8FF3E9000000000000098B
-t1301279721
-s2443
-i"FirstViewController.h"
-i<ifaddrs.h>
-i<arpa/inet.h>
-
-N/Users/jfranklin773/Desktop/VideoWall/Classes/ServerHandler.h
-c000000004DD9C34B0000000000000127
-t1306116939
-s295
-i<Foundation/Foundation.h>
-
-N/Users/jfranklin773/Desktop/VideoWall/Classes/ServerHandler.m
-c000000004DD9C14D00000000000008B1
-t1306116429
-s2225
-i<Foundation/Foundation.h>
-i<Foundation/NSFileHandle.h>
-i<Foundation/NSAutoreleasePool.h>
-i<Foundation/NSString.h>
-i<Foundation/NSData.h>
-i<Foundation/NSArray.h>
-i"Cst420Socket.h"
-i<stdio.h>
-i<string.h>
-i<stdlib.h>
-i"ServerHandler.h"
-
-N/Users/jfranklin773/Desktop/VideoWall/Classes/TabView.h
-c000000004D8826AF00000000000000CE
-t1300768431
-s206
-i<Foundation/Foundation.h>
-
-N/Users/jfranklin773/Desktop/VideoWall/Classes/TabView.m
-c000000004D8826AF00000000000000B5
-t1300768431
-s181
-i"TabView.h"
-
-N/Users/jfranklin773/Desktop/VideoWall/Classes/VideoWallAppDelegate.h
-c000000004D88001500000000000001D7
-t1300758549
-s471
-i<UIKit/UIKit.h>
-
-N/Users/jfranklin773/Desktop/VideoWall/Classes/VideoWallAppDelegate.m
-c000000004D88AEB10000000000000C7A
-t1300803249
-s3194
-i"VideoWallAppDelegate.h"
-
-N/Users/jfranklin773/Desktop/VideoWall/Classes/Voting.h
-c000000004DD9C5C80000000000000136
-t1306117576
-s310
-i<UIKit/UIKit.h>
-i"ServerHandler.h"
-
-N/Users/jfranklin773/Desktop/VideoWall/Classes/Voting.m
-c000000004DD9C61E000000000000119B
-t1306117662
-s4507
-i"Voting.h"
-
-N/Users/jfranklin773/Desktop/VideoWall/Classes/Voting.xib
-c000000004DD9CA0D00000000000043D5
-t1306118669
-s17365
-
-N/Users/jfranklin773/Desktop/VideoWall/Classes/untitled.h
-c000000004D88269900000000000000D0
-t1300768409
-s208
-i<Foundation/Foundation.h>
-
-N/Users/jfranklin773/Desktop/VideoWall/Classes/untitled.m
-c000000004D88269900000000000000B8
-t1300768409
-s184
-i"untitled.h"
-
-N/Users/jfranklin773/Desktop/VideoWall/Default.png
-c000000004D851DB4000000000002FFE3
-t1300569524
-s196579
-
-N/Users/jfranklin773/Desktop/VideoWall/Defualt.png
-c000000004D851DB4000000000002FFE3
-t1300569524
-s196579
-
-N/Users/jfranklin773/Desktop/VideoWall/FirstView.xib
-c000000004DD9C69F00000000000048D5
-t1306117791
-s18645
-
-N/Users/jfranklin773/Desktop/VideoWall/MainWindow.xib
-c000000004D88AC710000000000007083
-t1300802673
-s28803
-
-N/Users/jfranklin773/Desktop/VideoWall/SecondView.xib
-c000000004D88A695000000000000489F
-t1300801173
-s18591
-
-N/Users/jfranklin773/Desktop/VideoWall/VideoWall_Prefix.pch
-c000000004D87FA9F00000000000000BB
-t1300757151
-s187
-i<Foundation/Foundation.h>
-i<UIKit/UIKit.h>
-
-N/Users/jfranklin773/Desktop/VideoWall/build/Debug-iphonesimulator/VideoWall.app
-t1306118677
-s510
-
-N/Users/jfranklin773/Desktop/VideoWall/build/Debug-iphonesimulator/VideoWall.app.dSYM
-t1306117665
-s102
-
-N/Users/jfranklin773/Desktop/VideoWall/build/Debug-iphonesimulator/VideoWall.app/Default.png
-t1300758628
-s196579
-
-N/Users/jfranklin773/Desktop/VideoWall/build/Debug-iphonesimulator/VideoWall.app/Defualt.png
-t1300758422
-s196579
-
-N/Users/jfranklin773/Desktop/VideoWall/build/Debug-iphonesimulator/VideoWall.app/FirstView.nib
-t1306118152
-s1014
-
-N/Users/jfranklin773/Desktop/VideoWall/build/Debug-iphonesimulator/VideoWall.app/Info.plist
-t1300757175
-s599
-
-N/Users/jfranklin773/Desktop/VideoWall/build/Debug-iphonesimulator/VideoWall.app/MainWindow.nib
-t1300802678
-s1703
-
-N/Users/jfranklin773/Desktop/VideoWall/build/Debug-iphonesimulator/VideoWall.app/PkgInfo
-t1300757175
-s8
-
-N/Users/jfranklin773/Desktop/VideoWall/build/Debug-iphonesimulator/VideoWall.app/SecondView.nib
-t1300801177
-s1300
-
-N/Users/jfranklin773/Desktop/VideoWall/build/Debug-iphonesimulator/VideoWall.app/VideoWall
-t1306117665
-s34500
-
-N/Users/jfranklin773/Desktop/VideoWall/build/Debug-iphonesimulator/VideoWall.app/Voting.nib
-t1306118677
-s1022
-
-N/Users/jfranklin773/Desktop/VideoWall/build/Debug-iphonesimulator/VideoWall.app/icon3.png
-t1300758118
-s8350
-
-N/Users/jfranklin773/Desktop/VideoWall/build/Debug-iphonesimulator/VideoWall.app/splash.png
-t1300757511
-s196579
-
-N/Users/jfranklin773/Desktop/VideoWall/build/Debug-iphonesimulator/VideoWall.app/team.png
-t1300759012
-s538479
-
-N/Users/jfranklin773/Desktop/VideoWall/build/Debug-iphonesimulator/VideoWall.app/tylerh.jpg
-t1300766804
-s67247
-
-N/Users/jfranklin773/Desktop/VideoWall/build/VideoWall.build/Debug-iphonesimulator/VideoWall.build/Objects-normal/i386/Cst420Socket.o
-t1306116827
-s26292
-
-N/Users/jfranklin773/Desktop/VideoWall/build/VideoWall.build/Debug-iphonesimulator/VideoWall.build/Objects-normal/i386/FirstViewController.o
-t1303150792
-s39292
-
-N/Users/jfranklin773/Desktop/VideoWall/build/VideoWall.build/Debug-iphonesimulator/VideoWall.build/Objects-normal/i386/ServerHandler.o
-t1306116940
-s12968
-
-N/Users/jfranklin773/Desktop/VideoWall/build/VideoWall.build/Debug-iphonesimulator/VideoWall.build/Objects-normal/i386/TabView.o
-t2
-s0
-
-N/Users/jfranklin773/Desktop/VideoWall/build/VideoWall.build/Debug-iphonesimulator/VideoWall.build/Objects-normal/i386/VideoWall.LinkFileList
-c000000004DD9C2D90000000000000320
-t1306116825
-s800
-
-N/Users/jfranklin773/Desktop/VideoWall/build/VideoWall.build/Debug-iphonesimulator/VideoWall.build/Objects-normal/i386/VideoWallAppDelegate.o
-t1300803530
-s55476
-
-N/Users/jfranklin773/Desktop/VideoWall/build/VideoWall.build/Debug-iphonesimulator/VideoWall.build/Objects-normal/i386/Voting.o
-t1306117665
-s43540
-
-N/Users/jfranklin773/Desktop/VideoWall/build/VideoWall.build/Debug-iphonesimulator/VideoWall.build/Objects-normal/i386/main.o
-t1300757181
-s6300
-
-N/Users/jfranklin773/Desktop/VideoWall/build/VideoWall.build/Debug-iphonesimulator/VideoWall.build/Objects-normal/i386/untitled.o
-t2
-s0
-
-N/Users/jfranklin773/Desktop/VideoWall/icon3.png
-c000000004D851DB3000000000000209E
-t1300569523
-s8350
-
-N/Users/jfranklin773/Desktop/VideoWall/main.m
-c000000004D87FA9F000000000000015F
-t1300757151
-s351
-i<UIKit/UIKit.h>
-
-N/Users/jfranklin773/Desktop/VideoWall/splash.png
-c000000004D851DB4000000000002FFE3
-t1300569524
-s196579
-
-N/Users/jfranklin773/Desktop/VideoWall/team.png
-c000000004D851DB4000000000008376F
-t1300569524
-s538479
-
-N/Users/jfranklin773/Desktop/VideoWall/tylerh.jpg
-c000000004D851DB400000000000106AF
-t1300569524
-s67247
-
-N/var/folders/-3/-3smH4hgFXuS9JTI6VmaIE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/VideoWall_Prefix-aqmqvlvufzihpsasvdbsomryjmlg/VideoWall_Prefix.pch.gch
-t1300757180
-s15453392
-
-NVideoWall-Info.plist
-c000000004D87FA9F000000000000038D
-t1300757151
-s909
-
-CCheck dependencies
-r0
-lSLF07#2@18"Check dependencies328158971#328158971#0(0"0(0#1#0"3343187568374212096#0"0#
-
-CCompileC build/VideoWall.build/Debug-iphonesimulator/VideoWall.build/Objects-normal/i386/Cst420Socket.o /Users/jfranklin773/Desktop/VideoWall/Classes/Cst420Socket.m normal i386 objective-c com.apple.compilers.gcc.4_2
-s327809625.877825
-e327809627.025371
-r1
-xCompileC
-xbuild/VideoWall.build/Debug-iphonesimulator/VideoWall.build/Objects-normal/i386/Cst420Socket.o
-x/Users/jfranklin773/Desktop/VideoWall/Classes/Cst420Socket.m
-xnormal
-xi386
-xobjective-c
-xcom.apple.compilers.gcc.4_2
-o/Users/jfranklin773/Desktop/VideoWall/Classes/Cst420Socket.m: In function '-[Cst420ServerSocket initWithPort:]':
-o/Users/jfranklin773/Desktop/VideoWall/Classes/Cst420Socket.m:70: warning: control reaches end of non-void function
-lSLF07#2@68"Compile /Users/jfranklin773/Desktop/VideoWall/Classes/Cst420Socket.m327809625#327809627#0(228"/Users/jfranklin773/Desktop/VideoWall/Classes/Cst420Socket.m: In function '-[Cst420ServerSocket initWithPort:]':/Users/jfranklin773/Desktop/VideoWall/Classes/Cst420Socket.m:70: warning: control reaches end of non-void function1(22@40"Control reaches end of non-void function327809626#113#115#0(6@60"/Users/jfranklin773/Desktop/VideoWall/Classes/Cst420Socket.m311457856#70#0#70#0#40"control reaches end of non-void function0(0#0#60"/Users/jfranklin773/Desktop/VideoWall/Classes/Cst420Socket.m7083932847239164928#1967"    cd /Users/jfranklin773/Desktop/VideoWall    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/jfranklin773/Desktop/VideoWall/build/VideoWall.build/Debug-iphonesimulator/VideoWall.build/VideoWall-generated-files.hmap -I/Users/jfranklin773/Desktop/VideoWall/build/VideoWall.build/Debug-iphonesimulator/VideoWall.build/VideoWall-own-target-headers.hmap -I/Users/jfranklin773/Desktop/VideoWall/build/VideoWall.build/Debug-iphonesimulator/VideoWall.build/VideoWall-all-target-headers.hmap -iquote /Users/jfranklin773/Desktop/VideoWall/build/VideoWall.build/Debug-iphonesimulator/VideoWall.build/VideoWall-project-headers.hmap -F/Users/jfranklin773/Desktop/VideoWall/build/Debug-iphonesimulator -I/Users/jfranklin773/Desktop/VideoWall/build/Debug-iphonesimulator/include -I/Users/jfranklin773/Desktop/VideoWall/build/VideoWall.build/Debug-iphonesimulator/VideoWall.build/DerivedSources/i386 -I/Users/jfranklin773/Desktop/VideoWall/build/VideoWall.build/Debug-iphonesimulator/VideoWall.build/DerivedSources -include /var/folders/-3/-3smH4hgFXuS9JTI6VmaIE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/VideoWall_Prefix-aqmqvlvufzihpsasvdbsomryjmlg/VideoWall_Prefix.pch -c /Users/jfranklin773/Desktop/VideoWall/Classes/Cst420Socket.m -o /Users/jfranklin773/Desktop/VideoWall/build/VideoWall.build/Debug-iphonesimulator/VideoWall.build/Objects-normal/i386/Cst420Socket.o0#
-
-CCompileC build/VideoWall.build/Debug-iphonesimulator/VideoWall.build/Objects-normal/i386/FirstViewController.o /Users/jfranklin773/Desktop/VideoWall/Classes/FirstViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
-s324843585.996269
-e324843592.263208
-r1
-xCompileC
-xbuild/VideoWall.build/Debug-iphonesimulator/VideoWall.build/Objects-normal/i386/FirstViewController.o
-x/Users/jfranklin773/Desktop/VideoWall/Classes/FirstViewController.m
-xnormal
-xi386
-xobjective-c
-xcom.apple.compilers.gcc.4_2
-o/Users/jfranklin773/Desktop/VideoWall/Classes/FirstViewController.m:102: warning: incomplete implementation of class 'FirstViewController'
-o/Users/jfranklin773/Desktop/VideoWall/Classes/FirstViewController.m:102: warning: method definition for '-getIPAddress' not found
-lSLF07#2@75"Compile /Users/jfranklin773/Desktop/VideoWall/Classes/FirstViewController.m324843586#324843592#0(269"/Users/jfranklin773/Desktop/VideoWall/Classes/FirstViewController.m:102: warning: incomplete implementation of class 'FirstViewController'/Users/jfranklin773/Desktop/VideoWall/Classes/FirstViewController.m:102: warning: method definition for '-getIPAddress' not found2(22@56"Incomplete implementation of class 'FirstViewController'324843591#0#139#0(6@67"/Users/jfranklin773/Desktop/VideoWall/Classes/FirstViewController.m322972521#102#0#102#0#38"incomplete implementation of class '*'0(22@47"Method definition for '-getIPAddress' not found324843591#139#130#0(6@67"/Users/jfranklin773/Desktop/VideoWall/Classes/FirstViewController.m322972521#102#0#102#0#35"method definition for '*' not found0(0#0#67"/Users/jfranklin773/Desktop/VideoWall/Classes/FirstViewController.m7083932847239164928#1981"    cd /Users/jfranklin773/Desktop/VideoWall    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/jfranklin773/Desktop/VideoWall/build/VideoWall.build/Debug-iphonesimulator/VideoWall.build/VideoWall-generated-files.hmap -I/Users/jfranklin773/Desktop/VideoWall/build/VideoWall.build/Debug-iphonesimulator/VideoWall.build/VideoWall-own-target-headers.hmap -I/Users/jfranklin773/Desktop/VideoWall/build/VideoWall.build/Debug-iphonesimulator/VideoWall.build/VideoWall-all-target-headers.hmap -iquote /Users/jfranklin773/Desktop/VideoWall/build/VideoWall.build/Debug-iphonesimulator/VideoWall.build/VideoWall-project-headers.hmap -F/Users/jfranklin773/Desktop/VideoWall/build/Debug-iphonesimulator -I/Users/jfranklin773/Desktop/VideoWall/build/Debug-iphonesimulator/include -I/Users/jfranklin773/Desktop/VideoWall/build/VideoWall.build/Debug-iphonesimulator/VideoWall.build/DerivedSources/i386 -I/Users/jfranklin773/Desktop/VideoWall/build/VideoWall.build/Debug-iphonesimulator/VideoWall.build/DerivedSources -include /var/folders/-3/-3smH4hgFXuS9JTI6VmaIE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/VideoWall_Prefix-aqmqvlvufzihpsasvdbsomryjmlg/VideoWall_Prefix.pch -c /Users/jfranklin773/Desktop/VideoWall/Classes/FirstViewController.m -o /Users/jfranklin773/Desktop/VideoWall/build/VideoWall.build/Debug-iphonesimulator/VideoWall.build/Objects-normal/i386/FirstViewController.o0#
-
-CCompileC build/VideoWall.build/Debug-iphonesimulator/VideoWall.build/Objects-normal/i386/ServerHandler.o /Users/jfranklin773/Desktop/VideoWall/Classes/ServerHandler.m normal i386 objective-c com.apple.compilers.gcc.4_2
-s327809740.222803
-e327809740.294880
-r1
-xCompileC
-xbuild/VideoWall.build/Debug-iphonesimulator/VideoWall.build/Objects-normal/i386/ServerHandler.o
-x/Users/jfranklin773/Desktop/VideoWall/Classes/ServerHandler.m
-xnormal
-xi386
-xobjective-c
-xcom.apple.compilers.gcc.4_2
-o/Users/jfranklin773/Desktop/VideoWall/Classes/ServerHandler.m: In function '-[ServerHandler init]':
-o/Users/jfranklin773/Desktop/VideoWall/Classes/ServerHandler.m:47: warning: passing argument 1 of 'sendBytes:OfLength:Index:' discards qualifiers from pointer target type
-o/Users/jfranklin773/Desktop/VideoWall/Classes/ServerHandler.m:49: warning: passing argument 1 of 'sendBytes:OfLength:Index:' discards qualifiers from pointer target type
-o/Users/jfranklin773/Desktop/VideoWall/Classes/ServerHandler.m:41: warning: unused variable 'inputString'
-o/Users/jfranklin773/Desktop/VideoWall/Classes/ServerHandler.m:33: warning: unused variable 'endText'
-lSLF07#2@69"Compile /Users/jfranklin773/Desktop/VideoWall/Classes/ServerHandler.m327809740#327809740#0(646"/Users/jfranklin773/Desktop/VideoWall/Classes/ServerHandler.m: In function '-[ServerHandler init]':/Users/jfranklin773/Desktop/VideoWall/Classes/ServerHandler.m:47: warning: passing argument 1 of 'sendBytes:OfLength:Index:' discards qualifiers from pointer target type/Users/jfranklin773/Desktop/VideoWall/Classes/ServerHandler.m:49: warning: passing argument 1 of 'sendBytes:OfLength:Index:' discards qualifiers from pointer target type/Users/jfranklin773/Desktop/VideoWall/Classes/ServerHandler.m:41: warning: unused variable 'inputString'/Users/jfranklin773/Desktop/VideoWall/Classes/ServerHandler.m:33: warning: unused variable 'endText'4(22@94"Passing argument 1 of 'sendBytes:OfLength:Index:' discards qualifiers from pointer target type327809740#100#170#0(6@61"/Users/jfranklin773/Desktop/VideoWall/Classes/ServerHandler.m327809229#47#0#47#0#70"passing argument * of '*' discards qualifiers from pointer target type0(22@94"Passing argument 1 of 'sendBytes:OfLength:Index:' discards qualifiers from pointer target type327809740#270#170#0(6@61"/Users/jfranklin773/Desktop/VideoWall/Classes/ServerHandler.m327809229#49#0#49#0#70"passing argument * of '*' discards qualifiers from pointer target type0(22@29"Unused variable 'inputString'327809740#440#105#0(6@61"/Users/jfranklin773/Desktop/VideoWall/Classes/ServerHandler.m327809229#41#0#41#0#19"unused variable '*'0(22@25"Unused variable 'endText'327809740#545#101#0(6@61"/Users/jfranklin773/Desktop/VideoWall/Classes/ServerHandler.m327809229#33#0#33#0#19"unused variable '*'0(0#0#61"/Users/jfranklin773/Desktop/VideoWall/Classes/ServerHandler.m8614117440#1969"    cd /Users/jfranklin773/Desktop/VideoWall    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/jfranklin773/Desktop/VideoWall/build/VideoWall.build/Debug-iphonesimulator/VideoWall.build/VideoWall-generated-files.hmap -I/Users/jfranklin773/Desktop/VideoWall/build/VideoWall.build/Debug-iphonesimulator/VideoWall.build/VideoWall-own-target-headers.hmap -I/Users/jfranklin773/Desktop/VideoWall/build/VideoWall.build/Debug-iphonesimulator/VideoWall.build/VideoWall-all-target-headers.hmap -iquote /Users/jfranklin773/Desktop/VideoWall/build/VideoWall.build/Debug-iphonesimulator/VideoWall.build/VideoWall-project-headers.hmap -F/Users/jfranklin773/Desktop/VideoWall/build/Debug-iphonesimulator -I/Users/jfranklin773/Desktop/VideoWall/build/Debug-iphonesimulator/include -I/Users/jfranklin773/Desktop/VideoWall/build/VideoWall.build/Debug-iphonesimulator/VideoWall.build/DerivedSources/i386 -I/Users/jfranklin773/Desktop/VideoWall/build/VideoWall.build/Debug-iphonesimulator/VideoWall.build/DerivedSources -include /var/folders/-3/-3smH4hgFXuS9JTI6VmaIE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/VideoWall_Prefix-aqmqvlvufzihpsasvdbsomryjmlg/VideoWall_Prefix.pch -c /Users/jfranklin773/Desktop/VideoWall/Classes/ServerHandler.m -o /Users/jfranklin773/Desktop/VideoWall/build/VideoWall.build/Debug-iphonesimulator/VideoWall.build/Objects-normal/i386/ServerHandler.o0#
-
-CCompileC build/VideoWall.build/Debug-iphonesimulator/VideoWall.build/Objects-normal/i386/TabView.o /Users/jfranklin773/Desktop/VideoWall/Classes/TabView.m normal i386 objective-c com.apple.compilers.gcc.4_2
-r0
-
-CCompileC build/VideoWall.build/Debug-iphonesimulator/VideoWall.build/Objects-normal/i386/VideoWallAppDelegate.o /Users/jfranklin773/Desktop/VideoWall/Classes/VideoWallAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
-s322496330.363048
-e322496330.484995
-r1
-xCompileC
-xbuild/VideoWall.build/Debug-iphonesimulator/VideoWall.build/Objects-normal/i386/VideoWallAppDelegate.o
-x/Users/jfranklin773/Desktop/VideoWall/Classes/VideoWallAppDelegate.m
-xnormal
-xi386
-xobjective-c
-xcom.apple.compilers.gcc.4_2
-lSLF07#2@76"Compile /Users/jfranklin773/Desktop/VideoWall/Classes/VideoWallAppDelegate.m322496330#322496330#0(0"0(0#0#68"/Users/jfranklin773/Desktop/VideoWall/Classes/VideoWallAppDelegate.m8605955936#1983"    cd /Users/jfranklin773/Desktop/VideoWall    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/jfranklin773/Desktop/VideoWall/build/VideoWall.build/Debug-iphonesimulator/VideoWall.build/VideoWall-generated-files.hmap -I/Users/jfranklin773/Desktop/VideoWall/build/VideoWall.build/Debug-iphonesimulator/VideoWall.build/VideoWall-own-target-headers.hmap -I/Users/jfranklin773/Desktop/VideoWall/build/VideoWall.build/Debug-iphonesimulator/VideoWall.build/VideoWall-all-target-headers.hmap -iquote /Users/jfranklin773/Desktop/VideoWall/build/VideoWall.build/Debug-iphonesimulator/VideoWall.build/VideoWall-project-headers.hmap -F/Users/jfranklin773/Desktop/VideoWall/build/Debug-iphonesimulator -I/Users/jfranklin773/Desktop/VideoWall/build/Debug-iphonesimulator/include -I/Users/jfranklin773/Desktop/VideoWall/build/VideoWall.build/Debug-iphonesimulator/VideoWall.build/DerivedSources/i386 -I/Users/jfranklin773/Desktop/VideoWall/build/VideoWall.build/Debug-iphonesimulator/VideoWall.build/DerivedSources -include /var/folders/-3/-3smH4hgFXuS9JTI6VmaIE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/VideoWall_Prefix-aqmqvlvufzihpsasvdbsomryjmlg/VideoWall_Prefix.pch -c /Users/jfranklin773/Desktop/VideoWall/Classes/VideoWallAppDelegate.m -o /Users/jfranklin773/Desktop/VideoWall/build/VideoWall.build/Debug-iphonesimulator/VideoWall.build/Objects-normal/i386/VideoWallAppDelegate.o0#
-
-CCompileC build/VideoWall.build/Debug-iphonesimulator/VideoWall.build/Objects-normal/i386/Voting.o /Users/jfranklin773/Desktop/VideoWall/Classes/Voting.m normal i386 objective-c com.apple.compilers.gcc.4_2
-s327810465.372639
-e327810465.530255
-r1
-xCompileC
-xbuild/VideoWall.build/Debug-iphonesimulator/VideoWall.build/Objects-normal/i386/Voting.o
-x/Users/jfranklin773/Desktop/VideoWall/Classes/Voting.m
-xnormal
-xi386
-xobjective-c
-xcom.apple.compilers.gcc.4_2
-lSLF07#2@62"Compile /Users/jfranklin773/Desktop/VideoWall/Classes/Voting.m327810465#327810465#0(0"0(0#0#54"/Users/jfranklin773/Desktop/VideoWall/Classes/Voting.m8623129024#1955"    cd /Users/jfranklin773/Desktop/VideoWall    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/jfranklin773/Desktop/VideoWall/build/VideoWall.build/Debug-iphonesimulator/VideoWall.build/VideoWall-generated-files.hmap -I/Users/jfranklin773/Desktop/VideoWall/build/VideoWall.build/Debug-iphonesimulator/VideoWall.build/VideoWall-own-target-headers.hmap -I/Users/jfranklin773/Desktop/VideoWall/build/VideoWall.build/Debug-iphonesimulator/VideoWall.build/VideoWall-all-target-headers.hmap -iquote /Users/jfranklin773/Desktop/VideoWall/build/VideoWall.build/Debug-iphonesimulator/VideoWall.build/VideoWall-project-headers.hmap -F/Users/jfranklin773/Desktop/VideoWall/build/Debug-iphonesimulator -I/Users/jfranklin773/Desktop/VideoWall/build/Debug-iphonesimulator/include -I/Users/jfranklin773/Desktop/VideoWall/build/VideoWall.build/Debug-iphonesimulator/VideoWall.build/DerivedSources/i386 -I/Users/jfranklin773/Desktop/VideoWall/build/VideoWall.build/Debug-iphonesimulator/VideoWall.build/DerivedSources -include /var/folders/-3/-3smH4hgFXuS9JTI6VmaIE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/VideoWall_Prefix-aqmqvlvufzihpsasvdbsomryjmlg/VideoWall_Prefix.pch -c /Users/jfranklin773/Desktop/VideoWall/Classes/Voting.m -o /Users/jfranklin773/Desktop/VideoWall/build/VideoWall.build/Debug-iphonesimulator/VideoWall.build/Objects-normal/i386/Voting.o0#
-
-CCompileC build/VideoWall.build/Debug-iphonesimulator/VideoWall.build/Objects-normal/i386/main.o /Users/jfranklin773/Desktop/VideoWall/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
-s322449980.938804
-e322449981.077553
-r1
-xCompileC
-xbuild/VideoWall.build/Debug-iphonesimulator/VideoWall.build/Objects-normal/i386/main.o
-x/Users/jfranklin773/Desktop/VideoWall/main.m
-xnormal
-xi386
-xobjective-c
-xcom.apple.compilers.gcc.4_2
-lSLF07#2@52"Compile /Users/jfranklin773/Desktop/VideoWall/main.m322449980#322449981#0(0"0(0#0#44"/Users/jfranklin773/Desktop/VideoWall/main.m8603705696#1943"    cd /Users/jfranklin773/Desktop/VideoWall    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/jfranklin773/Desktop/VideoWall/build/VideoWall.build/Debug-iphonesimulator/VideoWall.build/VideoWall-generated-files.hmap -I/Users/jfranklin773/Desktop/VideoWall/build/VideoWall.build/Debug-iphonesimulator/VideoWall.build/VideoWall-own-target-headers.hmap -I/Users/jfranklin773/Desktop/VideoWall/build/VideoWall.build/Debug-iphonesimulator/VideoWall.build/VideoWall-all-target-headers.hmap -iquote /Users/jfranklin773/Desktop/VideoWall/build/VideoWall.build/Debug-iphonesimulator/VideoWall.build/VideoWall-project-headers.hmap -F/Users/jfranklin773/Desktop/VideoWall/build/Debug-iphonesimulator -I/Users/jfranklin773/Desktop/VideoWall/build/Debug-iphonesimulator/include -I/Users/jfranklin773/Desktop/VideoWall/build/VideoWall.build/Debug-iphonesimulator/VideoWall.build/DerivedSources/i386 -I/Users/jfranklin773/Desktop/VideoWall/build/VideoWall.build/Debug-iphonesimulator/VideoWall.build/DerivedSources -include /var/folders/-3/-3smH4hgFXuS9JTI6VmaIE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/VideoWall_Prefix-aqmqvlvufzihpsasvdbsomryjmlg/VideoWall_Prefix.pch -c /Users/jfranklin773/Desktop/VideoWall/main.m -o /Users/jfranklin773/Desktop/VideoWall/build/VideoWall.build/Debug-iphonesimulator/VideoWall.build/Objects-normal/i386/main.o0#
-
-CCompileC build/VideoWall.build/Debug-iphonesimulator/VideoWall.build/Objects-normal/i386/untitled.o /Users/jfranklin773/Desktop/VideoWall/Classes/untitled.m normal i386 objective-c com.apple.compilers.gcc.4_2
-r0
-
-CCompileXIB /Users/jfranklin773/Desktop/VideoWall/Classes/Voting.xib
-s327811477.042554
-e327811477.448069
-r1
-xCompileXIB
-x/Users/jfranklin773/Desktop/VideoWall/Classes/Voting.xib
-lSLF07#2@29"CompileXIB Classes/Voting.xib327811477#327811477#0(0"0(0#0#56"/Users/jfranklin773/Desktop/VideoWall/Classes/Voting.xib8616740512#569"    cd /Users/jfranklin773/Desktop/VideoWall    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/jfranklin773/Desktop/VideoWall/build/Debug-iphonesimulator/VideoWall.app/Voting.nib /Users/jfranklin773/Desktop/VideoWall/Classes/Voting.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk0#
-
-CCompileXIB /Users/jfranklin773/Desktop/VideoWall/FirstView.xib
-s327810951.636098
-e327810952.778724
-r1
-xCompileXIB
-x/Users/jfranklin773/Desktop/VideoWall/FirstView.xib
-lSLF07#2@24"CompileXIB FirstView.xib327810951#327810952#0(0"0(0#0#51"/Users/jfranklin773/Desktop/VideoWall/FirstView.xib8622427776#567"    cd /Users/jfranklin773/Desktop/VideoWall    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/jfranklin773/Desktop/VideoWall/build/Debug-iphonesimulator/VideoWall.app/FirstView.nib /Users/jfranklin773/Desktop/VideoWall/FirstView.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk0#
-
-CCompileXIB /Users/jfranklin773/Desktop/VideoWall/MainWindow.xib
-s322495477.634255
-e322495478.457178
-r1
-xCompileXIB
-x/Users/jfranklin773/Desktop/VideoWall/MainWindow.xib
-lSLF07#2@25"CompileXIB MainWindow.xib322495477#322495478#0(0"0(0#0#52"/Users/jfranklin773/Desktop/VideoWall/MainWindow.xib8617906848#569"    cd /Users/jfranklin773/Desktop/VideoWall    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/jfranklin773/Desktop/VideoWall/build/Debug-iphonesimulator/VideoWall.app/MainWindow.nib /Users/jfranklin773/Desktop/VideoWall/MainWindow.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk0#
-
-CCompileXIB /Users/jfranklin773/Desktop/VideoWall/SecondView.xib
-s322493977.411934
-e322493977.843955
-r1
-xCompileXIB
-x/Users/jfranklin773/Desktop/VideoWall/SecondView.xib
-lSLF07#2@25"CompileXIB SecondView.xib322493977#322493977#0(0"0(0#0#52"/Users/jfranklin773/Desktop/VideoWall/SecondView.xib8617188544#569"    cd /Users/jfranklin773/Desktop/VideoWall    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/jfranklin773/Desktop/VideoWall/build/Debug-iphonesimulator/VideoWall.app/SecondView.nib /Users/jfranklin773/Desktop/VideoWall/SecondView.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk0#
-
-CCpResource build/Debug-iphonesimulator/VideoWall.app/Default.png Default.png
-s322451428.578680
-e322451428.587955
-r1
-xCpResource
-xbuild/Debug-iphonesimulator/VideoWall.app/Default.png
-xDefault.png
-lSLF07#2@16"Copy Default.png322451428#322451428#0(0"0(0#0#49"/Users/jfranklin773/Desktop/VideoWall/Default.png8612534880#468"    cd /Users/jfranklin773/Desktop/VideoWall    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/jfranklin773/Desktop/VideoWall/Default.png /Users/jfranklin773/Desktop/VideoWall/build/Debug-iphonesimulator/VideoWall.app0#
-
-CCpResource build/Debug-iphonesimulator/VideoWall.app/Defualt.png Defualt.png
-s322451222.584576
-e322451222.595405
-r1
-xCpResource
-xbuild/Debug-iphonesimulator/VideoWall.app/Defualt.png
-xDefualt.png
-lSLF07#2@16"Copy Defualt.png322451222#322451222#0(0"0(0#0#49"/Users/jfranklin773/Desktop/VideoWall/Defualt.png8613072896#468"    cd /Users/jfranklin773/Desktop/VideoWall    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/jfranklin773/Desktop/VideoWall/Defualt.png /Users/jfranklin773/Desktop/VideoWall/build/Debug-iphonesimulator/VideoWall.app0#
-
-CCpResource build/Debug-iphonesimulator/VideoWall.app/icon3.png icon3.png
-s322450918.058272
-e322450918.072474
-r1
-xCpResource
-xbuild/Debug-iphonesimulator/VideoWall.app/icon3.png
-xicon3.png
-lSLF07#2@14"Copy icon3.png322450918#322450918#0(0"0(0#0#47"/Users/jfranklin773/Desktop/VideoWall/icon3.png8612338304#466"    cd /Users/jfranklin773/Desktop/VideoWall    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/jfranklin773/Desktop/VideoWall/icon3.png /Users/jfranklin773/Desktop/VideoWall/build/Debug-iphonesimulator/VideoWall.app0#
-
-CCpResource build/Debug-iphonesimulator/VideoWall.app/splash.png splash.png
-s322450311.111536
-e322450311.327986
-r1
-xCpResource
-xbuild/Debug-iphonesimulator/VideoWall.app/splash.png
-xsplash.png
-lSLF07#2@15"Copy splash.png322450311#322450311#0(0"0(0#0#48"/Users/jfranklin773/Desktop/VideoWall/splash.png8604065504#467"    cd /Users/jfranklin773/Desktop/VideoWall    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/jfranklin773/Desktop/VideoWall/splash.png /Users/jfranklin773/Desktop/VideoWall/build/Debug-iphonesimulator/VideoWall.app0#
-
-CCpResource build/Debug-iphonesimulator/VideoWall.app/team.png team.png
-s322451812.803608
-e322451813.831554
-r1
-xCpResource
-xbuild/Debug-iphonesimulator/VideoWall.app/team.png
-xteam.png
-lSLF07#2@13"Copy team.png322451812#322451813#0(0"0(0#0#46"/Users/jfranklin773/Desktop/VideoWall/team.png8603624288#465"    cd /Users/jfranklin773/Desktop/VideoWall    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/jfranklin773/Desktop/VideoWall/team.png /Users/jfranklin773/Desktop/VideoWall/build/Debug-iphonesimulator/VideoWall.app0#
-
-CCpResource build/Debug-iphonesimulator/VideoWall.app/tylerh.jpg tylerh.jpg
-s322459604.632834
-e322459604.901427
-r1
-xCpResource
-xbuild/Debug-iphonesimulator/VideoWall.app/tylerh.jpg
-xtylerh.jpg
-lSLF07#2@15"Copy tylerh.jpg322459604#322459604#0(0"0(0#0#48"/Users/jfranklin773/Desktop/VideoWall/tylerh.jpg8626379808#467"    cd /Users/jfranklin773/Desktop/VideoWall    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/jfranklin773/Desktop/VideoWall/tylerh.jpg /Users/jfranklin773/Desktop/VideoWall/build/Debug-iphonesimulator/VideoWall.app0#
-
-CGenerateDSYMFile /Users/jfranklin773/Desktop/VideoWall/build/Debug-iphonesimulator/VideoWall.app.dSYM /Users/jfranklin773/Desktop/VideoWall/build/Debug-iphonesimulator/VideoWall.app/VideoWall
-s327810465.575863
-e327810465.672747
-r1
-xGenerateDSYMFile
-x/Users/jfranklin773/Desktop/VideoWall/build/Debug-iphonesimulator/VideoWall.app.dSYM
-x/Users/jfranklin773/Desktop/VideoWall/build/Debug-iphonesimulator/VideoWall.app/VideoWall
-lSLF07#2@115"GenerateDSYMFile build/Debug-iphonesimulator/VideoWall.app.dSYM build/Debug-iphonesimulator/VideoWall.app/VideoWall327810465#327810465#0(0"0(0#0#89"/Users/jfranklin773/Desktop/VideoWall/build/Debug-iphonesimulator/VideoWall.app/VideoWall8621517408#386"    cd /Users/jfranklin773/Desktop/VideoWall    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /Users/jfranklin773/Desktop/VideoWall/build/Debug-iphonesimulator/VideoWall.app/VideoWall -o /Users/jfranklin773/Desktop/VideoWall/build/Debug-iphonesimulator/VideoWall.app.dSYM0#
-
-CLd /Users/jfranklin773/Desktop/VideoWall/build/Debug-iphonesimulator/VideoWall.app/VideoWall normal i386
-s327810465.530358
-e327810465.575761
-r1
-xLd
-x/Users/jfranklin773/Desktop/VideoWall/build/Debug-iphonesimulator/VideoWall.app/VideoWall
-xnormal
-xi386
-lSLF07#2@94"Link /Users/jfranklin773/Desktop/VideoWall/build/Debug-iphonesimulator/VideoWall.app/VideoWall327810465#327810465#0(0"0(0#0#0"8600263840#905"    cd /Users/jfranklin773/Desktop/VideoWall    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -L/Users/jfranklin773/Desktop/VideoWall/build/Debug-iphonesimulator -F/Users/jfranklin773/Desktop/VideoWall/build/Debug-iphonesimulator -filelist /Users/jfranklin773/Desktop/VideoWall/build/VideoWall.build/Debug-iphonesimulator/VideoWall.build/Objects-normal/i386/VideoWall.LinkFileList -mmacosx-version-min=10.6 -Xlinker -objc_abi_version -Xlinker 2 -framework Foundation -framework UIKit -framework CoreGraphics -o /Users/jfranklin773/Desktop/VideoWall/build/Debug-iphonesimulator/VideoWall.app/VideoWall0#
-
-CProcessInfoPlistFile /Users/jfranklin773/Desktop/VideoWall/build/Debug-iphonesimulator/VideoWall.app/Info.plist VideoWall-Info.plist
-s322449975.142819
-e322449975.262906
-r1
-xProcessInfoPlistFile
-x/Users/jfranklin773/Desktop/VideoWall/build/Debug-iphonesimulator/VideoWall.app/Info.plist
-xVideoWall-Info.plist
-lSLF07#2@28"Process VideoWall-Info.plist322449975#322449975#0(0"0(0#0#58"/Users/jfranklin773/Desktop/VideoWall/VideoWall-Info.plist30962724186357872#482"    cd /Users/jfranklin773/Desktop/VideoWall    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility VideoWall-Info.plist -genpkginfo /Users/jfranklin773/Desktop/VideoWall/build/Debug-iphonesimulator/VideoWall.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/jfranklin773/Desktop/VideoWall/build/Debug-iphonesimulator/VideoWall.app/Info.plist0#
-
-CProcessPCH /var/folders/-3/-3smH4hgFXuS9JTI6VmaIE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/VideoWall_Prefix-aqmqvlvufzihpsasvdbsomryjmlg/VideoWall_Prefix.pch.gch VideoWall_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
-s322449976.822495
-e322449980.938551
-r1
-xProcessPCH
-x/var/folders/-3/-3smH4hgFXuS9JTI6VmaIE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/VideoWall_Prefix-aqmqvlvufzihpsasvdbsomryjmlg/VideoWall_Prefix.pch.gch
-xVideoWall_Prefix.pch
-xnormal
-xi386
-xobjective-c
-xcom.apple.compilers.gcc.4_2
-lSLF07#2@31"Precompile VideoWall_Prefix.pch322449976#322449980#0(0"0(0#0#58"/Users/jfranklin773/Desktop/VideoWall/VideoWall_Prefix.pch8603719136#1834"    cd /Users/jfranklin773/Desktop/VideoWall    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/jfranklin773/Desktop/VideoWall/build/VideoWall.build/Debug-iphonesimulator/VideoWall.build/VideoWall-generated-files.hmap -I/Users/jfranklin773/Desktop/VideoWall/build/VideoWall.build/Debug-iphonesimulator/VideoWall.build/VideoWall-own-target-headers.hmap -I/Users/jfranklin773/Desktop/VideoWall/build/VideoWall.build/Debug-iphonesimulator/VideoWall.build/VideoWall-all-target-headers.hmap -iquote /Users/jfranklin773/Desktop/VideoWall/build/VideoWall.build/Debug-iphonesimulator/VideoWall.build/VideoWall-project-headers.hmap -F/Users/jfranklin773/Desktop/VideoWall/build/Debug-iphonesimulator -I/Users/jfranklin773/Desktop/VideoWall/build/Debug-iphonesimulator/include -I/Users/jfranklin773/Desktop/VideoWall/build/VideoWall.build/Debug-iphonesimulator/VideoWall.build/DerivedSources/i386 -I/Users/jfranklin773/Desktop/VideoWall/build/VideoWall.build/Debug-iphonesimulator/VideoWall.build/DerivedSources -c /Users/jfranklin773/Desktop/VideoWall/VideoWall_Prefix.pch -o /var/folders/-3/-3smH4hgFXuS9JTI6VmaIE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/VideoWall_Prefix-aqmqvlvufzihpsasvdbsomryjmlg/VideoWall_Prefix.pch.gch0#
-
-CTouch /Users/jfranklin773/Desktop/VideoWall/build/Debug-iphonesimulator/VideoWall.app
-s327811477.449915
-e327811477.453318
-r1
-xTouch
-x/Users/jfranklin773/Desktop/VideoWall/build/Debug-iphonesimulator/VideoWall.app
-lSLF07#2@85"Touch /Users/jfranklin773/Desktop/VideoWall/build/Debug-iphonesimulator/VideoWall.app327811477#327811477#0(0"0(0#0#0"8616462752#278"    cd /Users/jfranklin773/Desktop/VideoWall    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/jfranklin773/Desktop/VideoWall/build/Debug-iphonesimulator/VideoWall.app0#
-
